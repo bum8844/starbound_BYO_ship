@@ -1,0 +1,28 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"avianfuelhatch"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"slopedglasspanel"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"researchstation"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"alertlight"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"apexshiplight"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"bluelight"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"redlight"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"mechplatform"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"dockingfield"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"dockingfieldsmall"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"mechbeacon"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"shipgreeble1"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"shipgreeble2"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"shipgreeble3"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"shipgreeble4"}},
+	[
+		{"op":"test","path":"/speciesShips/avali"},
+		{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"avalicaptianschair"}},
+		{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"avalifuelhatch"}},
+		{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"avalitechstation"}},
+		{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"avaliteleporter"}},
+		{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"avalishiplocker"}},
+		{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"avalishipdoor"}},
+		{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"avalishiphatch"}},
+		{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"avalishiplight"}}
+	],
+]

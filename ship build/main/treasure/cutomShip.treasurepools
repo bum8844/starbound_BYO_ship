@@ -1,0 +1,12 @@
+{
+  "starterCustom" : [
+    [0, {
+      "fill" : [
+
+		{"item" : [ "money", 1000 ]},
+		{"pool" : "starterTreasure"}
+		
+      ]
+    }]
+  ]
+}

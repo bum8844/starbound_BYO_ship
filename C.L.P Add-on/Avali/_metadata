@@ -1,0 +1,11 @@
+{
+  "author" : "bum8844",
+  "description" : "This mod is Add-on, which allows CLP mod to produce the avali ship part.",
+  "friendlyName" : "CLP Avali add-on",
+  "link" : "",
+  "name" : "CLP Avali add-on",
+  "requires" : ["Erchius Crystal module", "mtmoddedblocks", "Avali", "Custom Life pod"],
+  "steamContentId" : "",
+  "tags" : "Crafting and Building|Ships|Species|Furniture and Objects",
+  "version" : "1"
+}

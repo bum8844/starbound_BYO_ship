@@ -1,0 +1,9 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"maincaptianschair"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"mainfuelhatch"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"maintechstation"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"mainteleporter"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"mainshiplocker"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"mainshipdoor"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"mainshiphatch"}}
+]

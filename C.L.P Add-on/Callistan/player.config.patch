@@ -1,0 +1,9 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"callistancaptianschair"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"callistanfuelhatch"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"callistantechstation"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"callistanteleporter"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"callistanshiplocker"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"callistanshipdoor"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"callistanshiphatch"}}
+]

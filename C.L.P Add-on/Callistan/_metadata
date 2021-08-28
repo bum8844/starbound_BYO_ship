@@ -1,0 +1,11 @@
+{
+  "author" : "bum8844",
+  "description" : "This mod is Add-on, which allows CLP mod to produce the Callistan ship part.",
+  "friendlyName" : "CLP Callistan add-on",
+  "link" : "",
+  "name" : "CLP Callistan add-on",
+  "requires" : ["Erchius Crystal module", "mtmoddedblocks", "Callistan Race Mod", "Custom Life pod"],
+  "steamContentId" : "",
+  "tags" : "Crafting and Building|Ships|Species|Furniture and Objects",
+  "version" : "1.0"
+}

@@ -1,0 +1,9 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"feneroxcaptianschair"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"feneroxfuelhatch"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"feneroxtechstation"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"feneroxteleporter"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"feneroxshiplocker"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"feneroxshipdoor"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"feneroxshiphatch"}}
+]

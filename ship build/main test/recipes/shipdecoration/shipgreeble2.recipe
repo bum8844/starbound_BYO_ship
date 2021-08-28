@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "shipgreeble2",
+    "count" : 1
+  },
+  "groups" : [ "mtshipstation", "shipdecoration" ]
+}

@@ -1,0 +1,322 @@
+[h1]BYO capsule(support mod race)[/h1]
+
+[code]
+Warning : if you placing multiple the techstation it make crashes the game
+If you plan to change the pat, please install without the existing techstation.
+[/code]
+
+[b]If you use this mod in the FU, you must choose it as a vanilla ship.[/b]
+
+[h1]Fuel & Crew[/h1]
+[table][tr][th]Tier[/th][th]Crew[/th][th]Fuel[/th][/tr][tr][td]T2[/td][td]10[/td][td]1000[/td][/tr][tr][td]T3[/td][td]15[/td][td]1500[/td][/tr][tr][td]T4[/td][td]20[/td][td]2000[/td][/tr][tr][td]T5[/td][td]40[/td][td]4000[/td][/tr][tr][td]T6[/td][td]60[/td][td]6000[/td][/tr][tr][td]T7[/td][td]80[/td][td]8000[/td][/tr][tr][td]T8[/td][td]1000[/td][td]10000[/td][/tr][/table]
+
+[h1]ship part price[/h1]
+[table][tr][th]object[/th][th]price[/th][/tr][tr][td]captainschair[/td][td]600[/td][/tr][tr][td]fuelhatch[/td][td]450[/td][/tr][tr][td]teleporter[/td][td]4000[/td][/tr][tr][td]techstation[/td][td]500[/td][/tr][tr][td]door[/td][td]125[/td][/tr][tr][td]hatch[/td][td]125[/td][/tr][tr][td]shiplocker[/td][td]600[/td][/tr][tr][th]The price of a broken item is half the price.[/th][/tr][/table]
+
+[h1]- Support mod & race list -[/h1]
+
+[url=]click this link[/url]
+
+[h1]- ship part add-on -[/h1]
+
+[url=]click this link[/url]
+
+If you have any modrace you want to add, please leave a comment.
+(If there is no error for that modrace, I'll added it.)
+
+[h1]Q n A[/h1]
+
+[b]How do I back up my Shipworld File?[/b]
+==============================
+[olist]
+[*]Play Starbound with the character's ship you want to back up.
+[*]Close Starbound.
+[*]Right–click Starbound in your Steam library.
+[*]Click properties -> Local Files Tab -> Browse Local Files
+[*]Open the following folders -> Storage -> player
+[*]Right click on the white space without selecting a file then select Sort by -> Date Modified in the dropdown menu.
+[*]Create a new folder.
+[*]Copy the top file that ends in “.shipworld” into that new folder.
+[/olist]
+
+[b]How do I get the BYO capsule on my save file?[/b]
+==============================
+Back up your ship world for the character you want to give the capsule to as described in the last section – but move the .shipworld file to the new folder instead of copying it. Make sure you get all the stuff you want to bring with you off your ship before doing this.
+[olist]
+[*]Ensure all items that you want to keep are removed from your ship.
+[*]Exit Starbound.
+[*]Delete the .shipworld file that you just made a backup for.
+[*]Reload Starbound and log on as your character.
+[*]Congratulations! You now have custom life pod!
+[/olist]
+
+= 토론 =
+
+제목 Support mod & race list
+
+[b]Support mode name has a link[/b]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=729558042][b]Avali (Triage) Race Mod[/b][/url]
+[code]avali[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1380941596][b]Arsenalbound - Lastree Race Mod[/b][/url]
+[code]lastree[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=850109963][b]Elithian Races Mod[/b][/url]
+[code]aegi, akkimari, avikan, droden, trink[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1994432000][b]Vampire Race (BLOODSOAKED UPDATE 3/19/21)[/b][/url]
+[code]vampires[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=729429063][b]Felins[/b][/url]
+[code]felin[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=729432341][b]The Orcana[/b][/url]
+[code]orcana[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=729597107][b]Familiars Race[/b][/url]
+[code]familiar[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=729622432][b]Playable Fenerox![/b][/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1372943807][b]Cosmic Fenerox[/b][/url]
+[code]fenerox(original support,fu support)[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=732276079][b]WIP: The Viera of Ivalice[/b][/url]
+[code]viera[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=732452461][b]Bunnykin Race[/b][/url]
+[code]bunnykin[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=734855883][b]Squids in Space!: A Splatoon Mod[/b][/url]
+[code]inkling[/code]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=738693062][b]Draenei Race Mod[/b][/url]
+[code]draenei, nightelves[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=739676461][b]Race - Munari[/b][/url]
+[code]munari[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=740694177][b]Argonian Race Redux[/b][/url]
+[code]argonian[/code]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=732452461][b]Hive Wasp Race[/b][/url]
+[code]wasphive[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1361888892][b]Lombax Race Redux[/b][/url]
+[code]lombax_pointed, lombax_striped, [strike]markazian[/strike][/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=774083065][b]Callistan Race Mod[/b][/url]
+[code]callistan[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=766773110][b]Greckan Race Mod[/b][/url]
+[code]greckan[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=731693098][b]Halo Ultra (Updated Version)[/b][/url]
+[code]brute, elite[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=779096734][b]Lamia Race[/b][/url]
+[code]lamia[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=788890408][b]Elunite Race[/b][/url]
+[code]elunite[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=792904949][b]Ooze Race[/b][/url]
+[code]ooze[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=797166006][b]The Attarran Race Mod (FR compatible!)[/b][/url]
+[code]Attarran[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=802291314][b]Skelekin Race[/b][/url]
+[code]skelekin[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=858876241][b]Goat People[/b][/url]
+[code]GoatPerson[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=866175420][b]Slime Race Mod[/b][/url]
+[code]slimeperson(original support,FU support)[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=868165595][b]Draconis Race(Humanoid Dragon Race)[/b][/url]
+[code]dragon[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=868800462][b]Gyrusens+[/b][/url]
+[code]gyrusen[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=729536412][b]Penguin Enabler[/b][/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1828750188][b]Penguin Piracy Reborn[/b][/url]
+[code]penguin, pppenguin, puffin, robopenguin, manicpenguin, vanillapenguin, albinopenguin, plaguin, cryoguin, pyroguin, pengvolt, rockhopperpenguin[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=919110722][b]Xeno's InvaderZim Mod[/b][/url]
+[code]irken, vortian[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=931140645][b]Kirhos Reloaded[/b][/url]
+[code]kirhos(original support,FU support)[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=936898205][b]Skath Race[/b][/url]
+[code]skath(original support,FU support)[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=950163061][b]Zoroark Race[/b][/url]
+[code]Zoroark[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=953122293][b]Zombie Race Mod Redux[/b][/url]
+[code]zombie[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=953418513][b]Kobolds Revival[/b][/url]
+[code]kobold[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=970123753][b]Meet the Anodynes[/b][/url]
+[code]anodyne(original support,FU support)[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1069082105][b]Terrakin Race[/b][/url]
+[code]terrakin[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1097047383][b]Shadow Race 2.0![/b][/url]
+[code]shade(fu shadow support)[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1103027918][b]The Saturnians[/b][/url]
+[code]saturn, saturn2[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1099066352][b]Playable Alpaca[/b][/url]
+[code]alpaca[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1109772923][b]Neko Alternate[/b][/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=730529826][b]Neko Species, Catgrills and Catboois![/b][/url]
+[code]neko[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1107519620][b]Phox Race[/b][/url]
+[code]phox[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1114822742][b]Arsenalbound - Indix race pack[/b][/url]
+[code]Indix[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1164332913][b]Arachne Race[/b][/url]
+[code]arachne[/code]
+
+[url=https://steamcommunity.com/workshop/filedetails/?id=1117006719][b]Everis (Canine Humanoids) Race Mod[/b][/url]
+[code]everis[/code]
+
+[url=https://steamcommunity.com/workshop/filedetails/?id=1117006719][b]Everis (Canine Humanoids) Race Mod[/b][/url]
+[code]everis[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1117693210][b]Lagiacrus Race[/b][/url]
+[code]lagi[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1272073433][b]Peglaci Rebirth[/b][/url]
+[code]peglaci(original support,FU support)[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1296622347][b]Woggles![/b][/url]
+[code]woggle[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1300828186][b]Playable Cats Redux - The Tiknass'uut[/b][/url]
+[code]cat[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1333429404][b]The Nebulite Return[/b][/url]
+[code]nebulite[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1307942879][b]Vulpes Race for Starbound 1.3[/b][/url]
+[code]vulpes[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1327392829][b]The Tauren of Warcraft[/b][/url]
+[code]tauren[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1356955138][b]Lucario Race[/b][/url]
+[code]lucario[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1359257989][b]Deerfolk Race Mod[/b][/url]
+[code]deerfolk[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1396610566][b]Kitsune Race[/b][/url]
+[code]kitsune[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1405822108][b]GalaxyFoxes Mod[/b][/url]
+[code]eevee, elysian, fennix[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1420856270][b]Sergal Race Mod Langy's Branch[/b][/url]
+[code]sergal[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1424584150][b]Dreamers race[/b][/url]
+[code]dvarians, emlos, ethereos, facebox, nyablos, odigreos[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1528780956][b]Deep Kingdom Mod[/b][/url]
+[code]lyru[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1597901084][b]Deerkin[/b][/url]
+[code]deerkin[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1610651987][b]The Alrune Race[/b][/url]
+[code]Alrune[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1614494395][b][Redux] Ori Spirit Guardian Race[/b][/url]
+[code]spiritguardian[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1686520464][b]The Angels of Starbound[/b][/url]
+[code]angel[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1702704154][b]Fragments of Ruin (Race)[/b][/url]
+[code]fragmentedruin[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1789115955][b]Protogen Race Mod[/b][/url]
+[code]protogenrace1[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1922334014][b]Remorian Race Mod[/b][/url]
+[code]remorian[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2191906942][b]Spirit Tree Race[/b][/url]
+[code]spirittree[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2260667955][b]The Sharkkin - Shark Race Mod[/b][/url]
+[code]sharkkin[/code]
+
+[url=https://steamcommunity.com/workshop/filedetails/?id=2359135864][b]Arcana[/b][/url]
+[code]Alrune[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2260578148][b]Braixen Race Fired Up[/b][/url]
+[code]braixen[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2260578148][b]Izku Race[/b][/url]
+[code]izku(original support,[strike]fu support[/strike])[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2260578148][b]The Mantizi Empire[/b][/url]
+[code]mantizi(original support,fu support)[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=741550312][b]The Nightars[/b][/url]
+[code]nightar(original support,fu support)[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=729480149][b]Frackin' Universe[/b][/url]
+[code]elduukhar, [strike]mantis[/strike], juux, radien, solar, thelusian, veluu[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1800401078][b]Lycanroc Race[/b][/url]
+[code]lycanroc[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2410311754][b]Snugget Race[/b][/url]
+[code]hubsnugget[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2462459956][b]Squamaeft Race[/b][/url]
+[code]squamaeft[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2416034527][b]Mollopods![/b][/url]
+[code]mollopod[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2280798282][b]The Kyterrans[/b][/url]
+[code]kyterran[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2066322624][b]The Shoggoth Race Mod & Friends[/b][/url]
+[code]shoggoth[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1991694517][b]Nebulac Race[/b][/url]
+[code]nebulac[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2468258662][b]Fiend Race[/b][/url]
+[code]pop_fiend[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1397762812][b]Cuteness Unbound - Harpies[/b][/url]
+[code]cruiser[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1360547769][b]Lyceen Race[/b][/url]
+[code]lyceen[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1600522737][b]Taurikin Race[/b][/url]
+[code]taurikin[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2474014342][b]Tsaiqir Race[/b][/url]
+[code]tsaiqir[/code]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1755805853][b]Lepidoptian Race[/b][/url]
+[code]Lepidoptian[/code]

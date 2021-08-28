@@ -1,0 +1,9 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"elunitecaptianschair"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"elunitefuelhatch"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"elunitetechstation"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"eluniteteleporter"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"eluniteshiplocker"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"eluniteshipdoor"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"eluniteshiphatch"}}
+]

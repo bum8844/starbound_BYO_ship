@@ -1,0 +1,15 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 5 },
+    { "item" : "ironbar", "count" : 5 },
+    { "item" : "copperbar", "count" : 5 },
+    { "item" : "glass", "count": 2 },
+	{ "item" : "wire", "count" : 5 },
+    { "item" : "siliconboard", "count": 2 }
+  ],
+  "output" : {
+    "item" : "researchstation",
+    "count" : 1
+  },
+  "groups" : [ "inventorstable","craftingstations","all" ]
+}

@@ -1,0 +1,12 @@
+{
+  "author" : "bum8844",
+  "description" : "This mod is Add-on, which allows CLP mod to produce the Felin ship part.",
+  "friendlyName" : "CLP Felin add-on",
+  "includes" : ["FrackinUniverse", "xbawks", "Character Creation Extender 100", "Avali", "QuickbarMini", "Avali_Ship_Teleporter", "lastree", "Elithian_Races_Mod", "Vampires", "Orcana", "Familiars", "Playable Fenerox!", "WIP: The Viera of Ivalice", "Bunnykin", "Inkling Race Mod", "Race - Munari", "argonian", "Hive Wasp Race", "Callistan Race Mod", "lamia", "Elunite", "ooze_race", "Attarran", "Skelekin Race", "SlimeRaceMod", "Draconis Race(Humanoid Dragon Race)", "Gyrusens", "Zoroarks", "Zombie Race Mod Redux", "Terrakin Race", "saturnians", "Phox", "Neko Alternate", "Arsenalbound", "Arachne Race Mod", "Woggles", "PlayableCatsRedux", "Vulpes Race", "Tauren", "lucario", "Deerfolk Race Mod", "lombax", "mkiotntworkshop", "kitsunerace", "GalaxyFoxes", "Sergal Race Mod Langy's Branch", "Dreamers race", "Deep Kingdom Mod", "Deerkin", "The Alrune Race", "Ori Mod Redux", "The Angels of Starbound", "fragmented_ruin", "Protogen Mod", "Remorian Race Mod", "Ori  Spirit Tree Race", "The Sharkkin", "PenguinPiracy", "Arcana", "NekoGrills?!", "Braixen Race Fired Up", "Izku Race", "The Mantizi Empire", "peglaci", "Lycanroc Race", "GreckanRaceMod", "DraeneiRaceMod"],
+  "link" : "",
+  "name" : "CLP Felin add-on",
+  "requires" : ["Erchius Crystal module", "mtmoddedblocks", "Felins", "Custom Life pod"],
+  "steamContentId" : "",
+  "tags" : "Crafting and Building|Ships|Species|Furniture and Objects",
+  "version" : "1.0"
+}

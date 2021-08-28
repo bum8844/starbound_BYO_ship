@@ -1,0 +1,207 @@
+Custom Life pod(support mod race)
+
+Warning : if you placing multiple the techstation it make crashes the game
+If you plan to change the pat, please install without the existing techstation.
+
+If you use this mod in the FU, you must choose it as a vanilla ship.
+
+Fuel & Crew
+
+tier :   t2   t3   t4   t5   t6   t7   t8(Max)
+Crew :   10   15   20   40   60   80  100(Max)
+Fuel : 1000 1500 2000 4000 6000 8000 10000(Max)
+
+- Support mod list -
+
+Avali (Triage) Race Mod
+Arsenalbound - Lastree Race Mod
+Elithian Races Mod
+Vampire Race (BLOODSOAKED UPDATE 3/19/21)
+Felins
+The Orcana
+Familiars Race
+Playable Fenerox!
+WIP: The Viera of Ivalice
+Bunnykin Race
+Squids in Space!: A Splatoon Mod
+Race - Munari
+Argonian Race Redux
+Hive Wasp Race
+Callistan Race Mod
+Lamia Race
+Elunite Race
+Ooze Race
+The Attarran Race Mod (FR compatible!)
+Skelekin Race
+Slime Race Mod
+Draconis Race(Humanoid Dragon Race)
+Gyrusens+
+Zoroark Race
+Zombie Race Mod Redux
+Terrakin Race
+The Saturnians
+Phox Race
+Neko Alternate
+Arsenalbound - Indix race pack
+Arachne Race
+Woggles!
+Playable Cats Redux - The Tiknass'uut
+Vulpes Race for Starbound 1.3
+The Tauren of Warcraft
+Lucario Race
+Deerfolk Race Mod
+Lombax Race Redux
+Kitsune Race
+GalaxyFoxes Mod
+Sergal Race Mod Langy's Branch
+Dreamers race
+Deep Kingdom Mod
+Deerkin
+The Alrune Race
+[Redux] Ori Spirit Guardian Race
+The Angels of Starbound
+Fragments of Ruin (Race)
+Protogen Race Mod
+Remorian Race Mod
+Spirit Tree Race
+The Sharkkin - Shark Race Mod
+Penguin Piracy Reborn
+Arcana
+Neko Species, Catgrills and Catboois!
+Braixen Race Fired Up
+Izku Race
+The Mantizi Empire
+Peglaci Rebirth
+Frackin' Universe
+Lycanroc Race
+Squamaeft Race
+
+totel 61
+
+- Support race list -
+
+felin
+orcana
+avali
+familiar
+fenerox
+brute
+elite
+viera 
+bunnykin
+inkling
+draenei
+nightelves
+munari
+argonian
+greckan
+wasphive
+callistan
+lamia
+elunite
+ooze
+Attarran
+skelekin
+aegi
+akkimari
+avikan
+droden
+trink
+GoatPerson
+slimeperson
+dragon
+gyrusen
+penguin(pr)
+irken
+vortian
+kirhos(original ,fu)
+skath
+Zoroark
+zombie
+kobold
+anodyne(original ,fu)
+terrakin
+shade(2.0)(fu shadow)
+alpaca
+saturn
+saturn2
+phox
+neko
+Indix
+everis
+lagi
+arachne
+peglaci(original ,fu)
+woggle
+cat
+vulpes
+tauren 
+nebulite
+lucario
+deerfolk
+lombax_pointed
+lombax_striped
+markazian
+lastree
+kitsune
+eevee
+elysian
+fennix
+sergal
+dvarians
+emlos 
+ethereos
+facebox
+nyablos 
+odigreos
+lyru 
+deerkin 
+Alrune 
+spiritguardian
+angel 
+fragmentedruin 
+protogenrace1 
+remorian 
+vampires
+spirittree 
+sharkkin
+arcanian
+braixen
+elduukhar(fu)
+izku(original, fu)
+mantis(fu)
+mantizi(original, fu)
+juux(fu)
+nightar(original, fu)
+radien(fu)
+solar(fu)
+thelusian(fu)
+veluu(fu)
+lycanroc
+
+Total 97 race
+
+If you have any modrace you want to add, please leave a comment.
+(If there is no error for that modrace, we added it.)
+
+Q n A
+
+How do I back up my Shipworld File?
+==============================
+1. Play Starbound with the character's ship you want to back up.
+2. Close Starbound.
+3. Right–click Starbound in your Steam library.
+4. Click properties -> Local Files Tab -> Browse Local Files
+5. Open the following folders -> Storage -> player
+6. Right click on the white space without selecting a file then select Sort by -> Date Modified in the dropdown menu.
+7. Create a new folder.
+8. Copy the top file that ends in “.shipworld” into that new folder.
+
+How do I get the custom life pod on my save file?
+==============================
+Back up your ship world for the character you want to give the capsule to as described in the last section – but move the .shipworld file to the new folder instead of copying it. Make sure you get all the stuff you want to bring with you off your ship before doing this.
+1. Ensure all items that you want to keep are removed from your ship.
+2. Exit Starbound.
+3. Delete the .shipworld file that you just made a backup for.
+4. Reload Starbound and log on as your character.
+5. Congratulations! You now have custom life pod!

@@ -1,0 +1,9 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"greckancaptianschair"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"greckanfuelhatch"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"greckantechstation"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"greckanteleporter"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"greckanshiplocker"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"greckanshipdoor"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"greckanshiphatch"}}
+]

@@ -1,0 +1,12 @@
+{
+  "author" : "bum8844",
+  "description" : "This mod is Add-on, which allows CLP mod to produce the Fenerox ship part.",
+  "friendlyName" : "CLP Fenerox add-on",
+  "includes" : ["Playable Fenerox!", "bb_cosmicfenerox"]
+  "link" : "",
+  "name" : "CLP Fenerox add-on",
+  "requires" : ["Erchius Crystal module", "mtmoddedblocks", "Custom Life pod"],
+  "steamContentId" : "",
+  "tags" : "Crafting and Building|Ships|Species|Furniture and Objects",
+  "version" : "1.0"
+}

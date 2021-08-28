@@ -1,0 +1,9 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"felincaptianschair"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"felinfuelhatch"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"felintechstation"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"felinteleporter"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"felinshiplocker"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"felinshipdoor"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"felinshiphatch"}}
+]

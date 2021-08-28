@@ -1,0 +1,9 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"wasphivecaptianschair"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"wasphivefuelhatch"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"wasphivetechstation"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"wasphiveteleporter"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"wasphiveshiplocker"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"wasphiveshipdoor"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"wasphiveshiphatch"}}
+]

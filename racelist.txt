@@ -1,0 +1,117 @@
+felin objects\felin x - ! v
+orcana x - ! v
+avali x - ! v
+familiar ship only(human) x - ! v
+fenerox x - ! v
+brute ship only(human) x - ! v
+elite ship only(human) x - ! v
+viera objects\viera\ship x - ! v
+bunnykin x - ! v
+inkling x - ! v
+draenei ship only(human) 0 x - ! v
+nightelves use human ship 0 x - ! v
+munari x - ! v
+argonian ship only(floran) x - ! v
+greckan x - ! v
+wasphive x - ! v
+callistan objects\callistan x - ! v
+lamia x - ! v
+elunite x - ! v
+ooze x - !
+Attarran x - !
+skelekin x - !
+aegi 0 objects\ship\aegi x - !
+akkimari 0 objects\ship\akkimari x - !
+avikan 0 objects\ship\avikan x - !
+droden 0 objects\ship\droden x - !
+trink 0 objects\ship\trink x - !
+GoatPerson x - !
+slimeperson x - !
+dragon x - !
+gyrusen objects x - !
+penguin(pr) x - !
+irken 0 x - !
+vortian 0 x - !
+kirhos x - !
+skath x - !
+Zoroark x - !
+zombie x - !
+kobold ship,koboldtechstation only (floran) x - ! 
+anodyne ship,anodynecaptainschair,anodynefuelhatch,anodyneshiplocker only (human) x - !
+terrakin x - !
+shade(2.0) x - !
+alpaca x - !
+saturn 0 x - !
+saturn2 0 x - ! saturnteleporter2
+phox x - !
+neko objects\neko x - !
+Indix x - !
+everis x - !
+lagi x - !
+arachne x - !
+peglaci name check x - !
+woggle x - !
+cat ship only(hylotl sal) x - ! 
+vulpes x - !
+tauren x - !
+nebulite (neb_XX/neb_XX.objects) x - !
+lucario x - !
+deerfolk x - !
+lombax_pointed 0 x - !
+lombax_striped 0 x - !
+markazian 0 x - !
+lastree x - !
+kitsune T21 x - ! 
+eevee 0 x - ! 
+elysian 0 x - !
+fennix 0 x - !
+sergal objects\sergal\noncollectable x - !
+dvarians 0 x - !
+emlos 0 x - !
+ethereos 0 x - !
+facebox 0 x - !
+nyablos 0 x - ! 
+odigreos 0 x - ! 
+lyru x - ! 
+deerkin x - ! 
+Alrune x - ! 
+spiritguardian ship\spiritguardian\floran... x - ! 
+angel x - ! 
+fragmentedruin x - ! 
+protogenrace1 x - !  
+remorian x - !  
+vampires x - !
+spirittree x - !
+braixen x - !
+sharkkin x - !
+arcanian x - !
+elduukhar0 x - !
+fuanodyne (fukirhos flies, use kirhos)0 x - !
+fudarkizku (human flies, use human)0 x - !
+fuizku (human flies, use human)0 x - !
+izku (human flies, use human)0 x - !
+fukirhos (use kirhos)0 x - !
+fumantis (use kirhos)0 x - !
+fupeglaci (use peglaci)0 x - !
+fumantizi (use mantizi)0 x - !
+mantizi x - !
+juux0 x - !
+nightar0 x - !
+radien(xi)0 x - !
+solar0 x - !
+thelusian0 x - !
+veluu0 x - !
+hubsnugget /objects/ship/hubsnuggetshipobjects x - !
+squamaeft x - !
+mollopod x - !
+kyterran x - !
+pop_fiend ship,pop_fiendtechstation only (floran) x - !
+shoggoth srm_shoggoth.. x - !
+mindflayer use shoggoth 
+nebulac x - !
+cruiser ship only (avian) x - ! v
+lyceen x - !
+taurikin x - !
+tsaiqir ship only (hylotl) x - ! v?
+Lepidoptian x - !
+

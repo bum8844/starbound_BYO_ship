@@ -1,0 +1,10 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"avalicaptianschair"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"avalifuelhatch"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"avalitechstation"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"avaliteleporter"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"avaliteleporterbig"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"avalishiplocker"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"avalishipdoor"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"avalishiplight"}}
+]

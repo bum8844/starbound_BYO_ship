@@ -1,0 +1,9 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"inklingcaptianschair"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"inklingfuelhatch"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"inklingtechstation"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"inklingteleporter"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"inklingshiplocker"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"inklingshipdoor"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"inklingshiphatch"}}
+]

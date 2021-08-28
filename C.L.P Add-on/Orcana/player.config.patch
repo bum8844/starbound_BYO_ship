@@ -1,0 +1,9 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"orcanacaptianschair"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"orcanafuelhatch"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"orcanatechstation"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"orcanateleporter"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"orcanashiplocker"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"orcanashipdoor"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"orcanashiphatch"}}
+]

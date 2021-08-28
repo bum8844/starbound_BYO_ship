@@ -1,0 +1,18 @@
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/main"},
+		{ "op" : "add",
+		"path" : "/speciesShips/main",
+		"value" : [
+				"/ships/main/mainT0.structure",
+				"/ships/main/mainT1.structure",
+				"/ships/main/mainT2.structure",
+				"/ships/main/mainT3.structure",
+				"/ships/main/mainT4.structure",
+				"/ships/main/mainT5.structure",
+				"/ships/main/mainT6.structure",
+				"/ships/main/mainT7.structure", 
+				"/ships/main/mainT8.structure" 
+			]
+		}
+	],
+

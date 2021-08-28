@@ -1,0 +1,10 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"bunnykincaptianschair"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"bunnykinfuelhatch"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"bunnykintechstation"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"bunnykinteleporter"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"bunnykinshiplocker"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"bunnykinshipdoor"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"bunnykinshiphatch"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"bunnykinshiplight"}}
+]

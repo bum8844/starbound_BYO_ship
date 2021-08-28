@@ -1,0 +1,9 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"vieracaptianschair"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"vierafuelhatch"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"vieratechstation"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"vierateleporter"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"vierashiplocker"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"vierashipdoor"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"vierashiphatch"}}
+]

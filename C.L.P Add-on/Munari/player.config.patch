@@ -1,0 +1,9 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"munaricaptianschair"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"munarifuelhatch"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"munaritechstation"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"munariteleporter"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"munarishiplocker"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"munarishipdoor"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"munarishiphatch"}}
+]

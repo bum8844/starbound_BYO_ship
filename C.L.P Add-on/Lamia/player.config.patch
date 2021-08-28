@@ -1,0 +1,9 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"lamiacaptianschair"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"lamiafuelhatch"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"lamiatechstation"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"lamiateleporter"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"lamiashiplocker"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"lamiashipdoor"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"lamiashiphatch"}}
+]
