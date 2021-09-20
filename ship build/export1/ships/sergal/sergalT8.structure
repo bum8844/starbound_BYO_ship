@@ -1,0 +1,16 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "maxFuel" : 10000,
+      "crewSize" : 100
+    }
+  },
+
+  "backgroundOverlays" : [
+
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "novakidT2blocks.png"
+}
