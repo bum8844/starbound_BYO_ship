@@ -1,0 +1,35 @@
+[
+  {
+    "op" : "add",
+    "path" : "/cyberspaceship",
+    "value" : {
+    "type" : "FloatingDungeon",
+    "dungeonWorld" : "cyberspaceship",
+    "spawningEnabled" : false,
+    "beamUpRule" : "AnywhereWithWarning",
+    "disableDeathDrops" : true,
+
+    "skyParameters" : {
+      "dayLength" : 10000,
+      "surfaceLevel" : 1000,
+      "spaceLevel" : 3000,
+      "seed" : -5288806180628666923,
+
+      "skyType" : "atmospheric",
+      "skyColoring" : {
+        "mainColor" : [0, 0, 0],
+
+        "morningColors" : [[0, 0, 0], [0, 0, 0]],
+        "dayColors" : [[0, 0, 0], [0, 0, 0]],
+        "eveningColors" : [[0, 0, 0], [0, 0, 0]],
+        "nightColors" : [[0, 0, 0], [0, 0, 0]],
+
+        "morningLightColor" : [195, 156, 149],
+        "dayLightColor" : [197, 184, 182],
+        "eveningLightColor" : [197, 98, 126],
+        "nightLightColor" : [28, 14, 14]
+      }
+    }
+    }
+  },
+]

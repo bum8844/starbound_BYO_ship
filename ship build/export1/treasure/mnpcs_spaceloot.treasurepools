@@ -1,0 +1,13 @@
+{
+  // encounter-specific containers
+
+  "mnpcs_cyberspaceChestTreasure" : [
+    [1, {
+      "fill" : [
+        {"pool" : "valuableTreasure"},
+        {"item" : [ "techcard", 1]}
+      ]
+    }]
+  ],
+
+}

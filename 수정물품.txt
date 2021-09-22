@@ -8,18 +8,18 @@ If you plan to change the pat, please install without the existing techstation.
 [b]If you use this mod in the FU, you must choose it as a vanilla ship.[/b]
 
 [h1]Fuel & Crew[/h1]
-[table][tr][th]Tier[/th][th]Crew[/th][th]Fuel[/th][/tr][tr][td]T2[/td][td]10[/td][td]1000[/td][/tr][tr][td]T3[/td][td]15[/td][td]1500[/td][/tr][tr][td]T4[/td][td]20[/td][td]2000[/td][/tr][tr][td]T5[/td][td]40[/td][td]4000[/td][/tr][tr][td]T6[/td][td]60[/td][td]6000[/td][/tr][tr][td]T7[/td][td]80[/td][td]8000[/td][/tr][tr][td]T8[/td][td]1000[/td][td]10000[/td][/tr][/table]
+[table][tr][th]Tier[/th][th]Crew[/th][th]Fuel[/th][/tr][tr][td]T2[/td][td]10[/td][td]1000[/td][/tr][tr][td]T3[/td][td]15[/td][td]1500[/td][/tr][tr][td]T4[/td][td]20[/td][td]2000[/td][/tr][tr][td]T5[/td][td]40[/td][td]4000[/td][/tr][tr][td]T6[/td][td]60[/td][td]6000[/td][/tr][tr][td]T7[/td][td]80[/td][td]8000[/td][/tr][tr][td]T8[/td][td]100[/td][td]10000[/td][/tr][/table]
 
 [h1]ship part price[/h1]
 [table][tr][th]object[/th][th]price[/th][/tr][tr][td]captainschair[/td][td]600[/td][/tr][tr][td]fuelhatch[/td][td]450[/td][/tr][tr][td]teleporter[/td][td]4000[/td][/tr][tr][td]techstation[/td][td]500[/td][/tr][tr][td]door[/td][td]125[/td][/tr][tr][td]hatch[/td][td]125[/td][/tr][tr][td]shiplocker[/td][td]600[/td][/tr][tr][th]The price of a broken item is half the price.[/th][/tr][/table]
 
 [h1]- Support mod & race list -[/h1]
 
-[url=]click this link[/url]
+[url=https://steamcommunity.com/workshop/filedetails/discussion/2600814386/3034852313322969982/]click this link[/url]
 
 [h1]- ship part add-on -[/h1]
 
-[url=]click this link[/url]
+[url=https://github.com/bum8844/starbound_BYO_ship]click this link(Unfinished)[/url]
 
 If you have any modrace you want to add, please leave a comment.
 (If there is no error for that modrace, I'll added it.)
@@ -49,6 +49,8 @@ Back up your ship world for the character you want to give the capsule to as des
 [*]Reload Starbound and log on as your character.
 [*]Congratulations! You now have custom life pod!
 [/olist]
+
+[b]Thank's to Allow use Spaceship Simulator by [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1390490083]Angry Turret[/url][/b]
 
 = 토론 =
 
