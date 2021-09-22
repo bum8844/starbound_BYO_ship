@@ -14,7 +14,6 @@
     "buyFactor" : 1.0,
     "sellFactor" : 0.2,
     "items" : [
-		{"item":"mnpcs_virtual"},
 		{"item":"aegicaptainschair"},
 		{"item":"aegifuelhatch"},
 		{"item":"aegishipdoor"},
@@ -1453,6 +1452,7 @@
 		{"item":"brokenZoroarkfuelhatch"},
 		{"item":"researchstation"},
 		{"item":"mtshipstation"},
+		{"item":"mnpcs_virtual1"},
 		{"item":"apexshiplight"},
 		{"item":"apexshiplightBroken"},
 		{"item":"avalishiplight"},
