@@ -1,0 +1,54 @@
+{
+  "objectName" : "quillandink_contract",
+  "colonyTags" : ["crafting"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 45,
+  
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {"config" : "/interface/windowconfig/crafting.config",
+	"paneLayoutOverride" : {
+		"windowtitle" : {
+			"title" : "Quill and Ink",
+			"subtitle" : "Fill out the contract for the store contract.",
+			"icon" : {
+				"file" : "/interface/crafting/quillandink_contracticon.png"
+				}
+			}
+		},
+		"filter" : [ "quillandink" ]
+  },
+
+  "description" : "A quill and ink.",
+  "shortdescription" : "Quill and Ink",
+  "race" : "hylotl",
+
+  "apexDescription" : "A quill and ink for old style writing.",
+  "avianDescription" : "Is this an Avian quill?",
+  "floranDescription" : "Sssticks make for better pensss.",
+  "glitchDescription" : "Delighted. A writing tool fit for a Glitch king.",
+  "humanDescription" : "I'd take a ballpoint pen over a quill any day.",
+  "hylotlDescription" : "Hylotl practice calligraphy from a very early age.",
+  "novakidDescription" : "A feather of some sort.",
+
+  "inventoryIcon" : "quillandink_contracticon.png",
+  "orientations" : [
+    {
+      "image" : "quillandink_contract.png:<color>",
+      "imagePosition" : [-7, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "quillandink_contract.png:<color>",
+      "imagePosition" : [-1, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "itemName" : "contract",
+  "rarity" : "Common",
+  "category" : "contract",
+  "inventoryIcon" : "contract.png",
+  "description" : "General purpose contract.",
+  "shortdescription" : "Contract"
+}

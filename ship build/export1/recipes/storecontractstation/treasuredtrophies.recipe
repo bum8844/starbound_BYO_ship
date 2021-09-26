@@ -1,0 +1,10 @@
+{
+  "currencyInputs" : {
+    "money" : 3000
+  },
+  "input" : [
+    { "item" : "storecontract", "count" : 1 }
+  ],
+  "output" : { "item" : "treasuredtrophies" , "count" : 1 },
+  "groups" : [ "storecontractstation" ]
+}
