@@ -1,0 +1,30 @@
+{
+  "objectName" : "mthumansmallfin",
+  "rarity" : "Common",
+  "description" : "A fin for a human spaceship.",
+  "shortdescription" : "Human Small Spaceship Fin",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 10,
+  "printable" : false,
+
+  "inventoryIcon" : "mthumansmallfinicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image": "mthumansmalltopfin.png:<color>.<frame>", "fullbright": true }, { "image": "mthumansmalltopfinlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-48,-16],
+      "frames" : 8,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image": "mthumansmallbottomfin.png:<color>.<frame>", "fullbright": true }, { "image": "mthumansmallbottomfinlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-48,-16],
+      "frames" : 8,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    }
+  ]
+}

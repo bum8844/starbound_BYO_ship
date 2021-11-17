@@ -1,0 +1,8 @@
+{
+  "itemName" : "pks3contract",
+  "rarity" : "Common",
+  "category" : "contract",
+  "inventoryIcon" : "pks3contract.png",
+  "description" : "This contract allows PeaceKeeper store entry into spacecraft.",
+  "shortdescription" : "Falcon Agency Agreement"
+}

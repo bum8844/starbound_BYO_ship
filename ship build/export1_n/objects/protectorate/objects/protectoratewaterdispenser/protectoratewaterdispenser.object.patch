@@ -1,0 +1,101 @@
+[
+ {
+  "op": "add",
+  "path": "/colonyTags",
+  "value": [
+   "mechanical",
+   "commerce"
+  ]
+ },
+ {
+	"op":"add",
+	"path":"/printable",
+	"value":true
+ },
+ {
+  "op": "add",
+  "path": "/orientations/0/anchors/0",
+  "value": "bottom"
+ },
+ {
+  "op": "add",
+  "path": "/orientations/0/direction",
+  "value": "right"
+ },
+ {
+  "op": "add",
+  "path": "/orientations/1",
+  "value": {
+   "image": "protectoratewaterdispenser_left.png:<color>",
+   "imagePosition": [
+    1,
+    0
+   ],
+   "frames": 1,
+   "animationCycle": 0.5,
+   "spaceScan": 0.1,
+   "anchors": [
+    "bottom"
+   ],
+   "direction": "left"
+  }
+ },
+ {
+  "op": "add",
+  "path": "/colonyTags",
+  "value": [
+   "outpost"
+  ]
+ },
+ {
+  "op": "add",
+  "path": "/scripts",
+  "value": [
+   "/scripts/npcToyObject.lua"
+  ]
+ },
+ {
+  "op": "add",
+  "path": "/npcToy",
+  "value": {
+   "influence": [
+    "watercoolerCollect",
+    "watercoolerConsume",
+    "watercoolerComplete"
+   ],
+   "defaultReactions": {
+    "watercoolerCollect": [
+     [
+      1,
+      "crouchcollect"
+     ]
+    ],
+    "watercoolerConsume": [
+     [
+      1,
+      "drink"
+     ]
+    ],
+    "watercoolerComplete": [
+     [
+      1,
+      "smile"
+     ],
+     [
+      0.1,
+      "vomit"
+     ]
+    ]
+   },
+   "preciseStandPositionLeft": [
+    -1,
+    0
+   ],
+   "preciseStandPositionRight": [
+    1,
+    0
+   ],
+   "maxNpcs": 1
+  }
+ }
+]

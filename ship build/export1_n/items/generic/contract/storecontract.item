@@ -1,0 +1,8 @@
+{
+  "itemName" : "storecontract",
+  "rarity" : "Common",
+  "category" : "contract",
+  "inventoryIcon" : "storecontract.png",
+  "description" : "This contract allows store entry into spacecraft.",
+  "shortdescription" : "Agency Agreement"
+}

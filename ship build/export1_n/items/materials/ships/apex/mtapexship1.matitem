@@ -1,0 +1,9 @@
+{
+  "itemName" : "mtapexship1",
+  "rarity" : "Common",
+  "inventoryIcon" : "mtapexship1icon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "The 'Cutting Edge' Tileset",
+  "shortdescription" : "Apex Hull Section A",
+  "materialId" : 51254
+}

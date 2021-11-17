@@ -1,0 +1,30 @@
+{
+  "objectName" : "mthumanlargefin",
+  "rarity" : "Common",
+  "description" : "A fin for a human spaceship.",
+  "shortdescription" : "Human Large Spaceship Fin",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 10,
+  "printable" : false,
+
+  "inventoryIcon" : "mthumanlargefinicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image": "mthumantoplargefin.png:<color>.<frame>", "fullbright": true }, { "image": "mthumantoplargefinlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-80,-48],
+      "frames" : 8,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image": "mthumanbottomlargefin.png:<color>.<frame>", "fullbright": true }, { "image": "mthumanbottomlargefinlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-80,-55],
+      "frames" : 8,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    }
+  ]
+}

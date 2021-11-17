@@ -1,0 +1,29 @@
+[
+	{
+    "op" : "add",
+    "path" : "/cyberspaceship",
+    "value" : {
+    "primaryDungeon" : "cyberspaceship",
+    "threatLevel" : 4,
+    "globalDirectives" : [
+        "?fade=000000=1.0?scanlines=51BD51FF;0.1;000000FF;1.0?border=2;51BD51FF;51BD5100",
+        "?fade=000000=1.0?scanlines=51BDBDFF;0.1;000000FF;1.0?border=2;51BDBDFF;51BD5100",
+        "?fade=000000=1.0?scanlines=5151BDFF;0.1;000000FF;1.0?border=2;5151BDFF;51BD5100",
+        "?fade=000000=1.0?scanlines=BD51BDFF;0.1;000000FF;1.0?border=2;BD51BDFF;51BD5100",
+        "?fade=000000=1.0?scanlines=BD5151FF;0.1;000000FF;1.0?border=2;BD5151FF;51BD5100",
+        "?fade=000000=1.0?scanlines=BDBD51FF;0.1;000000FF;1.0?border=2;BDBD51FF;51BD5100"
+      ],
+    "gravity" : 80,
+    "worldSize" : [1300, 200],
+    "dungeonBaseHeight" : 150,
+    "dungeonSurfaceHeight" : 150,
+    "ambientLightLevel" : [128, 128, 128],
+    "ambientNoises" : "/sfx/environmental/space_loop4.ogg",
+    "musicTrack" : "/music/the-peacekeepers.ogg",
+    "environmentStatusEffects" : ["dontstarve"],
+    "worldEdgeForceRegions" : "TopAndBottom",
+    "biome" : "cyberspace"
+    }
+  }
+]
+

@@ -1,0 +1,8 @@
+{
+  "itemName" : "vmucontract",
+  "rarity" : "Common",
+  "category" : "contract",
+  "inventoryIcon" : "vmucontract.png",
+  "description" : "This contract allows you to place vending machines on spaceships.",
+  "shortdescription" : "Vending Machine Agreement"
+}

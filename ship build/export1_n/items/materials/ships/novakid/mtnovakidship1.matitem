@@ -1,0 +1,9 @@
+{
+  "itemName" : "mtnovakidship1",
+  "rarity" : "Common",
+  "inventoryIcon" : "mtnovakidship1icon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "An novakid hull section, used in most apex star cruisers",
+  "shortdescription" : "Novakid Hull Section A",
+  "materialId" : 51267
+}

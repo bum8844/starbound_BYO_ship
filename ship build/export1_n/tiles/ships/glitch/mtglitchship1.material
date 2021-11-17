@@ -1,0 +1,22 @@
+{
+  "materialId" : 51261,
+  "materialName" : "mtglitchship1",
+  "particleColor" : [194, 194, 194, 255],
+  "itemDrop" : "mtglitchship1",
+  "shortdescription" : "Glitch Hull Section A",
+  "description" : "I do not want to type out that description again! UUUGGHHGHGHGHGGHHH!",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "drawBackground" : true,
+  "health" : 10,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/ships/tile_connection.config",
+  "renderParameters" : {
+    "texture" : "mtglitchship1.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 10
+  }
+}

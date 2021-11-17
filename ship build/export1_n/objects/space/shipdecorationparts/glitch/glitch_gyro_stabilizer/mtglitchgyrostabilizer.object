@@ -1,0 +1,30 @@
+{
+  "objectName" : "mtglitchgyrostabilizer",
+  "rarity" : "Common",
+  "description" : "Prevents puking while in flight.",
+  "shortdescription" : "Glitch Spaceship Gyro Stabilizer",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 200,
+  "printable" : false,
+
+  "inventoryIcon" : "mtglitchgyrostabilizericon.png",
+  "orientations" : [
+    {
+      "dualImage" : "mtglitchtopgyrostabilizer.png:<color>.<frame>",
+      "imagePosition" : [-36,-8],
+      "frames" : 9,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "dualImage" : "mtglitchbottomgyrostabilizer.png:<color>.<frame>",
+      "imagePosition" : [-36,-13],
+      "frames" : 9,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    }
+  ]
+}

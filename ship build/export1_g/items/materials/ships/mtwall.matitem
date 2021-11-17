@@ -1,0 +1,9 @@
+{
+  "itemName" : "mtwall",
+  "rarity" : "Common",
+  "inventoryIcon" : "mtwallicon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "Spaceship Wallplate",
+  "shortdescription" : "Spaceship Wallplate",
+  "materialId" : 51253
+}

@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 5 },
+    { "item" : "cottonwool", "count": 3 }
+  ],
+  "output" : {
+    "item" : "mtcrewwallmountedbed",
+    "count" : 1
+  },
+  "groups" : [ "shippartstation", "shipdecoration" ]
+}

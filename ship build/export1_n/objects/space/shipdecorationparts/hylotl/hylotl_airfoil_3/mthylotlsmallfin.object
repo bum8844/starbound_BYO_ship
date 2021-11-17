@@ -1,0 +1,30 @@
+{
+  "objectName" : "mthylotlsmallfin",
+  "rarity" : "Common",
+  "description" : "A fin for a hylotl spaceship.",
+  "shortdescription" : "Hylotl Small Spaceship Fin",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 10,
+  "printable" : false,
+
+  "inventoryIcon" : "mthylotlsmallfinicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "mthylotltopsmallfin.png:<color>.<frame>",
+      "imagePosition" : [-12,-8],
+      "frames" : 1,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "dualImage" : "mthylotlbottomsmallfin.png:<color>.<frame>",
+      "imagePosition" : [-12,-8],
+      "frames" : 1,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    }
+  ]
+}

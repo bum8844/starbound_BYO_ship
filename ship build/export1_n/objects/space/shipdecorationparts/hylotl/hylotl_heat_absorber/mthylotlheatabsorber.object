@@ -1,0 +1,30 @@
+{
+  "objectName" : "mthylotlheatabsorber",
+  "rarity" : "Common",
+  "description" : "Absorbs Heat for life support!",
+  "shortdescription" : "Hylotl Heat Absorber",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 10,
+  "printable" : false,
+
+  "inventoryIcon" : "mthylotlheatabsorbericon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image": "mthylotltopheatabsorber.png:<color>.<frame>", "fullbright": true }, { "image": "mthylotltopheatabsorberlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-92,-16],
+      "frames" : 1,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+	{
+      "imageLayers" : [ { "image": "mthylotlbottomheatabsorber.png:<color>.<frame>", "fullbright": true }, { "image": "mthylotlbottomheatabsorberlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-92,-10],
+      "frames" : 1,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    }
+  ]
+}

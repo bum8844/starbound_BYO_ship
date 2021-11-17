@@ -1,0 +1,48 @@
+{
+	"objectName" : "mtcoolpulsecannon",
+	"rarity" : "Common",
+	"description" : "Fires rapid pulses of Bose-Einstein condensate",
+	"shortdescription" : "Apex Cool Pulse Cannon",
+	"race" : "generic",
+	"category" : "decorative",
+	"price" : 10,
+	"printable" : false,
+
+	"inventoryIcon" : "mtcoolpulsecannonicon.png",
+	"orientations" : [
+		{
+			"dualImage" : "mtcoolpulsecannontopON.png:<color>.<frame>",
+			"imagePosition" : [-110,-16],
+			"frames" : 1,
+			"animationCycle" : 1,
+			"spaceScan" : 0.1,
+			"anchors" : [ "bottom" ]
+		},
+		{
+			"dualImage" : "mtcoolpulsecannonbottomON.png:<color>.<frame>",
+			"imagePosition" : [-110,-20],
+			"frames" : 1,
+			"animationCycle" : 1,
+			"spaceScan" : 0.1,
+			"anchors" : [ "top" ]
+		}
+	],
+
+	"animation" : "mtcoolpulsecannon.animation",
+	"animationParts" : {
+		"ON_Top_PNG" : "mtcoolpulsecannontopON.png",
+		"OFF_Top_PNG" : "mtcoolpulsecannontopOFF.png",
+		"ON_Bottom_PNG" : "mtcoolpulsecannonbottomON.png",
+		"OFF_Bottom_PNG" : "mtcoolpulsecannonbottomOFF.png"
+	},
+	"animationPosition" : [-110, -16],
+
+	"scripts" : [ "mtcoolpulsecannon.lua" ],
+	"scriptDelta" : 5,
+
+	"inputNodes" : [ [-4, -1] ],
+	"outputNodes" : [ ],
+
+	"gates" : 1,
+	"truthtable" : [ false, true ]
+}

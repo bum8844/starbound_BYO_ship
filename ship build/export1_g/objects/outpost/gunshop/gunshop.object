@@ -1,0 +1,243 @@
+{
+  "objectName" : "gunshop",
+  "colonyTags" : ["outpost","commerce"],
+  "rarity" : "Legendary",
+  "category" : "other",
+  "price" : 4200,
+  "description" : "This Glitch knows a lot about good weapons",
+  "shortdescription" : "Gun Shop",
+  "race" : "generic",
+  "printable" : false,
+  "lightColor" : [46, 66, 77],
+  "interactAction" : "OpenMerchantInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/merchant.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Gun Shop",
+        "subtitle" : "^#b9b5b2;Many legendary weapons!"
+      }
+    },
+
+	"buyFactor" : 1.1,
+    "sellFactor" : 0.2,
+    "items" : [ 
+	  { "item" : "brokenprotectoratebroadsword" },
+      {
+        "item": {
+          "name": "protectoratebroadsword"
+        },
+        "prerequisiteQuest": "protectoratesword"
+      },
+      { "item" : "boomerang" },
+	  { "item" : "hunterrifle" },
+	  { "item" : "fireboomerang" },
+	  { "item" : "iceboomerang" },
+	  { "item" : "lunarang" },
+	  { "item" : "wormerang" },
+	  { "item" : "tungstenbow" },
+	  { "item" : "poisonbow" },
+	  { "item" : "lightbow" },
+	  { "item" : "frozenbow" },
+	  { "item" : "compoundbow" },
+	  { "item" : "cavebow" },
+	  { "item" : "chakram" },
+	  { "item" : "hardchakram" },
+	  { "item" : "neochakram" },
+	  { "item" : "sawchakram" },
+	  { "item" : "boxingglove" },
+	  { "item" : "gauntlet" },
+	  { "item" : "clawglove" },
+	  { "item" : "stunglove" },
+	  { "item" : "supernovaglove" },
+	  { "item" : "vinefist" },
+	  { "item" : "energypickaxe" },
+	  { "item" : "astrosabredeluxe" },
+	  { "item" : "hokucide" },
+	  { "item" : "timepierce" },
+	  { "item" : "adaptablecrossbow" },
+	  { "item" : "drillspear" },
+	  { "item" : "electricrailgun" },
+	  { "item" : "electrobaton" },
+	  { "item" : "evileye" },
+	  { "item" : "exmachina" },
+	  { "item" : "eyesword" },
+	  { "item" : "flamingdemonsword" },
+	  { "item" : "gnomegun" },
+	  { "item" : "gristlegun" },
+	  { "item" : "magnorbs" },
+	  { "item" : "remotegrenadelauncher" },
+	  { "item" : "soulseeker" },
+	  { "item" : "wormgun" },
+	  { "item" : "energywhip" },
+	  { "item" : "intestinewhip" },
+	  { "item" : "ropewhip" },
+	  { "item" : "vinewhip" },
+	  { "item" : "teslastaff" },
+	  { "item" : "doomcannon" },
+	  { "item" : "raygun" },
+	  { "item" : "spaceplasmarifle" },
+	  { "item" : "eyeshield" },
+	  { "item" : "floranshield" },
+	  { "item" : "frostshield" },
+	  { "item" : "mushroomshield" },
+	  { "item" : "riotshield" },
+	  { "item" : "seashellshield" },
+	  { "item" : "bomb" },
+	  { "item" : "molotov" },
+	  { "item" : "hivebomb" },
+	  { "item" : "thorngrenade" },
+	  { "item" : "throwingstar" },
+      {
+        "item": {
+          "name": "neomagnum1"
+        },
+        "prerequisiteQuest": "bountyassignment"
+      },
+      {
+        "item": {
+          "name": "neomagnum2"
+        },
+        "prerequisiteQuest": "bountyassignment"
+      },
+      {
+        "item": {
+          "name": "neomagnum3"
+        },
+        "prerequisiteQuest": "bountyassignment"
+      },
+      {
+        "item": {
+          "name": "neomagnum4"
+        },
+        "prerequisiteQuest": "bountyassignment"
+      },
+      {
+        "item": {
+          "name": "neolaserlauncher"
+        },
+        "prerequisiteQuest": "bountyassignment"
+      },
+      {
+        "item": {
+          "name": "gluesprayer"
+        },
+        "prerequisiteQuest": "bountyassignment"
+      },
+      {
+        "item": {
+          "name": "stungrenade"
+        },
+        "prerequisiteQuest": "bountyassignment"
+      },
+	  {
+        "item": {
+          "name": "erchiuseye"
+        },
+        "prerequisiteQuest": "human_mission1"
+      },
+      {
+        "item": {
+          "name": "ixodoomclaw"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "soluskatana"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "kluexstaff"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "miniknoglauncher"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+      {
+        "item": {
+          "name": "dragonhead"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+	  {
+        "item": {
+          "name": "neouzi"
+        },
+        "prerequisiteQuest": "cultist_mission1"
+      },
+	  {
+        "item": {
+          "name": "neotommygun"
+        },
+        "prerequisiteQuest": "cultist_mission1"
+      },
+	  {
+        "item": {
+          "name": "neoshotgun"
+        },
+        "prerequisiteQuest": "cultist_mission1"
+      },
+	  {
+        "item": {
+          "name": "neopistol"
+        },
+        "prerequisiteQuest": "cultist_mission1"
+      }
+    ]
+  },
+
+  "animation" : "gunshop.animation",
+  "inventoryIcon" : "gunshopicon.png",
+  "orientations" : [
+    {
+      "image" : "gunshopleft.png:<color>.<frame>",
+      "flipImages" : true,
+	  "direction" : "left",
+      "animationParts" : {
+        "bg" : "gunshopleft.png",
+        "fg" : "gunshopleftlit.png"
+      },
+      "animationPosition" : [-64, 0],
+      "lightPosition" : [-1, 2],
+      "imagePosition" : [-64, 0],
+      "spaceScan" : 0.1,
+      "interactiveSpaces": [
+        [-5, 1], [-4, 1], [-3, 1], [-2, 1], [-1, 1], [0, 1],
+        [-5, 2], [-4, 2], [-3, 2], [-2, 2], [-1, 2],
+        [-4, 3], [-3, 3], [-2, 3],
+        [-4, 4], [-3, 4], [-2, 4],
+        [-6, 5], [-5, 5], [-4, 5], [-3, 5], [-2, 5], [-1, 5], [0, 5],
+        [-6, 6], [-5, 6], [-4, 6], [-3, 6], [-2, 6], [-1, 6], [0, 6]
+      ],
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "gunshop.png:<color>.<frame>",
+      "direction" : "right",
+      "animationParts" : {
+        "bg" : "gunshop.png",
+        "fg" : "gunshoplit.png"
+      },
+      "animationPosition" : [-64, 0],
+	  "lightPosition" : [0, 2],
+      "imagePosition" : [-64, 0],
+      "spaceScan" : 0.1,
+      "interactiveSpaces": [
+        [6, 1], [5, 1], [4, 1], [3, 1], [2, 1], [1, 1], [0, 1], [-1, 1],
+        [4, 2], [3, 2], [2, 2], [1, 2], [0, 2],
+        [3, 3], [2, 3], [1, 3],
+        [3, 4], [2, 4], [1, 4],
+        [5, 5], [4, 5], [3, 5], [2, 5], [1, 5], [0, 5], [-1, 5],
+        [5, 6], [4, 6], [3, 6], [2, 6], [1, 6], [0, 6], [-1, 6]
+      ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

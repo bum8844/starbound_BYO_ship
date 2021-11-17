@@ -1,0 +1,9 @@
+{
+  "itemName" : "mtapexship2",
+  "rarity" : "Common",
+  "inventoryIcon" : "mtapexship2icon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "A little bit blocky, but acceptable in a few galaxies!",
+  "shortdescription" : "Apex Hull Section B",
+  "materialId" : 51255
+}

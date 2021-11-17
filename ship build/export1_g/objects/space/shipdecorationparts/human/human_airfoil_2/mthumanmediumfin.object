@@ -1,0 +1,30 @@
+{
+  "objectName" : "mthumanmediumfin",
+  "rarity" : "Common",
+  "description" : "A fin for a human spaceship.",
+  "shortdescription" : "Human Medium Spaceship Fin",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 10,
+  "printable" : false,
+
+  "inventoryIcon" : "mthumanmediumfinicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image": "mthumanmediumtopfin.png:<color>.<frame>", "fullbright": true }, { "image": "mthumanmediumtopfinlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-66,-32],
+      "frames" : 8,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image": "mthumanmediumbottomfin.png:<color>.<frame>", "fullbright": true }, { "image": "mthumanmediumbottomfinlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-66,-37],
+      "frames" : 8,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    }
+  ]
+}

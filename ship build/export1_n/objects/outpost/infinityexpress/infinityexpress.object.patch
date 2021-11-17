@@ -1,0 +1,4 @@
+[
+	{"op":"add","path" : "/interactData/items/-", "value" : {"item":"storecontractstation"}},
+	{"op":"add","path" : "/interactData/items/-", "value" : {"item":"quillandink_contract"}}
+]

@@ -1,0 +1,30 @@
+{
+  "objectName" : "mtthermodynamicsconsole",
+  "rarity" : "Uncommon",
+  "description" : "A thermodynamics console. Used to regulate thermals by re routing power.",
+  "shortdescription" : "Thermodynamics Console",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 200,
+  "objectType" : "loungeable",
+  "itemTags" : ["captainschair"],
+
+  "inventoryIcon" : "mtthermodynamicsconsoleicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image": "mtthermodynamicsconsole.png:<color>.<frame>", "fullbright": true }, { "image": "mtthermodynamicsconsolelit.png:<color>.<frame>" } ],
+      "imagePosition" : [-30, -16],
+      "frames" : 8,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+  
+  "interactAction" : "ScriptPane",
+  "interactData" : "/interface/cockpit/cockpit.config",
+
+  "sitFlipDirection" : false,
+  "sitPosition" : [-6, 6]
+}

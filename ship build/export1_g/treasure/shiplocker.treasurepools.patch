@@ -1,0 +1,52 @@
+[
+[
+  {
+    "op": "add",
+    "path": "/starterTreasure/0/1/fill/-",
+    "value": {
+      "item": ["shippartstation",1]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/starterTreasure/0/1/fill/-",
+    "value": {
+      "item": ["money",1000]
+    }
+  }
+],
+[
+  { "op":"test", "path":"/nekiStarterTreasure/-"},
+  {
+    "op": "add",
+    "path": "/nekiStarterTreasure/0/1/fill/-",
+    "value": {
+      "item": ["shippartstation",1]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/nekiStarterTreasure/0/1/fill/-",
+    "value": {
+      "item": ["money",1000]
+    }
+  }
+],
+[
+  { "op":"test", "path":"/valonianStarterTreasure/-"},
+  {
+    "op": "add",
+    "path": "/valonianStarterTreasure/0/1/fill/-",
+    "value": {
+      "item": ["shippartstation",1]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/valonianStarterTreasure/0/1/fill/-",
+    "value": {
+      "item": ["money",1000]
+    }
+  }
+]
+]

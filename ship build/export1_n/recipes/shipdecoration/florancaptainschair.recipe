@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 5 },
+    { "item" : "wire", "count" : 5 },
+    { "item" : "siliconboard", "count": 2 },
+    { "item" : "leather", "count": 3 }
+  ],
+  "output" : {
+    "item" : "florancaptainschair",
+    "count" : 1
+  },
+  "groups" : [ "shippartstation", "shipdecoration" ]
+}

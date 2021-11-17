@@ -1,0 +1,30 @@
+{
+  "objectName" : "mtapexturret",
+  "rarity" : "Common",
+  "description" : "This one goes BOOOM!",
+  "shortdescription" : "Apex Main Gun Turret",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 10,
+  "printable" : false,
+
+  "inventoryIcon" : "mtapexturreticon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image": "mtapextopturret.png:<color>.<frame>", "fullbright": true }, { "image": "mtapextopturretlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-30,-8],
+      "frames" : 1,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+	{
+      "imageLayers" : [ { "image": "mtapexbottomturret.png:<color>.<frame>", "fullbright": true }, { "image": "mtapexbottomturretlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-30,-10],
+      "frames" : 1,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    }
+  ]
+}

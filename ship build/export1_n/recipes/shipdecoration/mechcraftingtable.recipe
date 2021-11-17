@@ -1,0 +1,16 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 20 },
+	{ "item" : "titaniumbar", "count" : 20 },
+	{ "item" : "silverbar", "count" : 4 },
+	{ "item" : "stickofram", "count" : 4 },
+    { "item" : "wire", "count" : 20 },
+    { "item" : "siliconboard", "count": 4 },
+	{ "item" : "battery", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "mechcraftingtable",
+    "count" : 1
+  },
+  "groups" : [ "shippartstation", "shipdecoration" ]
+}

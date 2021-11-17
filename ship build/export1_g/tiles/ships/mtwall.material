@@ -1,0 +1,22 @@
+{
+  "materialId" : 51253,
+  "materialName" : "mtwall",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "mtwall",
+  "description" : "Spaceship Wallplate",
+  "shortdescription" : "Spaceship Wallplate",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "drawBackground" : true,
+  "health" : 10,
+  "category": "decorations",
+  
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "mtwall.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

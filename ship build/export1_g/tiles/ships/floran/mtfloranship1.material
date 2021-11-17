@@ -1,0 +1,22 @@
+{
+  "materialId" : 51258,
+  "materialName" : "mtfloranship1",
+  "particleColor" : [194, 194, 194, 255],
+  "itemDrop" : "mtfloranship1",
+  "shortdescription" : "Floran Hull Section A",
+  "description" : "Whoever before me wrote this description put 'An Floran' *smack*",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "drawBackground" : true,
+  "health" : 10,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/ships/tile_connection.config",
+  "renderParameters" : {
+    "texture" : "mtfloranship1.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 10
+  }
+}

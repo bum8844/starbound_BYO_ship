@@ -1,0 +1,2008 @@
+[
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/SomaDragon"},
+		{ "op" : "add",
+		"path" : "/speciesShips/SomaDragon",
+		"value" : [
+				"/ships/SomaDragon/somadragonT0.structure",
+				"/ships/SomaDragon/somadragonT1.structure",
+				"/ships/SomaDragon/somadragonT2.structure",
+				"/ships/SomaDragon/somadragonT3.structure",
+				"/ships/SomaDragon/somadragonT4.structure",
+				"/ships/SomaDragon/somadragonT5.structure",
+				"/ships/SomaDragon/somadragonT6.structure",
+				"/ships/SomaDragon/somadragonT7.structure", 
+				"/ships/SomaDragon/somadragonT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/FutaraDragon"},
+		{ "op" : "add",
+		"path" : "/speciesShips/FutaraDragon",
+		"value" : [
+				"/ships/FutaraDragon/futaradragonT0.structure",
+				"/ships/FutaraDragon/futaradragonT1.structure",
+				"/ships/FutaraDragon/futaradragonT2.structure",
+				"/ships/FutaraDragon/futaradragonT3.structure",
+				"/ships/FutaraDragon/futaradragonT4.structure",
+				"/ships/FutaraDragon/futaradragonT5.structure",
+				"/ships/FutaraDragon/futaradragonT6.structure",
+				"/ships/FutaraDragon/futaradragonT7.structure", 
+				"/ships/FutaraDragon/futaradragonT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/scyphojel"},
+		{ "op" : "add",
+		"path" : "/speciesShips/scyphojel",
+		"value" : [
+				"/ships/scyphojel/scyphojelT0.structure",
+				"/ships/scyphojel/scyphojelT1.structure",
+				"/ships/scyphojel/scyphojelT2.structure",
+				"/ships/scyphojel/scyphojelT3.structure",
+				"/ships/scyphojel/scyphojelT4.structure",
+				"/ships/scyphojel/scyphojelT5.structure",
+				"/ships/scyphojel/scyphojelT6.structure",
+				"/ships/scyphojel/scyphojelT7.structure", 
+				"/ships/scyphojel/scyphojelT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/valonian"},
+		{ "op" : "add",
+		"path" : "/speciesShips/valonian",
+		"value" : [
+				"/ships/valonian/valonianT0.structure",
+				"/ships/valonian/valonianT1.structure",
+				"/ships/valonian/valonianT2.structure",
+				"/ships/valonian/valonianT3.structure",
+				"/ships/valonian/valonianT4.structure",
+				"/ships/valonian/valonianT5.structure",
+				"/ships/valonian/valonianT6.structure",
+				"/ships/valonian/valonianT7.structure", 
+				"/ships/valonian/valonianT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/glaceonfox"},
+		{ "op" : "add",
+		"path" : "/speciesShips/glaceonfox",
+		"value" : [
+				"/ships/glaceonfox/glaceonfoxT0.structure",
+				"/ships/glaceonfox/glaceonfoxT1.structure",
+				"/ships/glaceonfox/glaceonfoxT2.structure",
+				"/ships/glaceonfox/glaceonfoxT3.structure",
+				"/ships/glaceonfox/glaceonfoxT4.structure",
+				"/ships/glaceonfox/glaceonfoxT5.structure",
+				"/ships/glaceonfox/glaceonfoxT6.structure",
+				"/ships/glaceonfox/glaceonfoxT7.structure", 
+				"/ships/glaceonfox/glaceonfoxT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/vanta"},
+		{ "op" : "add",
+			"path" : "/speciesShips/vanta",
+			"value" : [
+				"/ships/vanta/vantaT0.structure",
+				"/ships/vanta/vantaT1.structure",
+				"/ships/vanta/vantaT2.structure",
+				"/ships/vanta/vantaT3.structure",
+				"/ships/vanta/vantaT4.structure",
+				"/ships/vanta/vantaT5.structure",
+				"/ships/vanta/vantaT6.structure",
+				"/ships/vanta/vantaT7.structure",
+				"/ships/vanta/vantaT8.structure"
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/neki"},
+		{ "op" : "add",
+			"path" : "/speciesShips/neki",
+			"value" : [
+				"/ships/vanta/vantaT0.structure",
+				"/ships/vanta/vantaT1.structure",
+				"/ships/vanta/vantaT2.structure",
+				"/ships/vanta/vantaT3.structure",
+				"/ships/vanta/vantaT4.structure",
+				"/ships/vanta/vantaT5.structure",
+				"/ships/vanta/vantaT6.structure",
+				"/ships/vanta/vantaT7.structure",
+				"/ships/vanta/vantaT8.structure"
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/faun"},
+		{ "op" : "add",
+			"path" : "/speciesShips/faun",
+			"value" : [
+				"/ships/faun/faunt0.structure",
+				"/ships/faun/faunt1.structure",
+				"/ships/faun/faunt2.structure",
+				"/ships/faun/faunt3.structure",
+				"/ships/faun/faunt4.structure",
+				"/ships/faun/faunt5.structure",
+				"/ships/faun/faunt6.structure",
+				"/ships/faun/faunt7.structure",
+				"/ships/faun/faunt8.structure"
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/lyru"},
+		{ "op" : "add",
+		"path" : "/speciesShips/lyru",
+		"value" : [
+				"/ships/lyru/lyruT0.structure",
+				"/ships/lyru/lyruT1.structure",
+				"/ships/lyru/lyruT2.structure",
+				"/ships/lyru/lyruT3.structure",
+				"/ships/lyru/lyruT4.structure",
+				"/ships/lyru/lyruT5.structure",
+				"/ships/lyru/lyruT6.structure",
+				"/ships/lyru/lyruT7.structure", 
+				"/ships/lyru/lyruT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/halfsea"},
+		{ "op" : "add",
+		"path" : "/speciesShips/halfsea",
+		"value" : [
+				"/ships/halfsea/halfseaT0.structure",
+				"/ships/halfsea/halfseaT1.structure",
+				"/ships/halfsea/halfseaT2.structure",
+				"/ships/halfsea/halfseaT3.structure",
+				"/ships/halfsea/halfseaT4.structure",
+				"/ships/halfsea/halfseaT5.structure",
+				"/ships/halfsea/halfseaT6.structure",
+				"/ships/halfsea/halfseaT7.structure", 
+				"/ships/halfsea/halfseaT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/Lepidoptian"},
+		{ "op" : "add",
+		"path" : "/speciesShips/Lepidoptian",
+		"value" : [
+				"/ships/Lepidoptian/LepidoptianT0.structure",
+				"/ships/Lepidoptian/LepidoptianT1.structure",
+				"/ships/Lepidoptian/LepidoptianT2.structure",
+				"/ships/Lepidoptian/LepidoptianT3.structure",
+				"/ships/Lepidoptian/LepidoptianT4.structure",
+				"/ships/Lepidoptian/LepidoptianT5.structure",
+				"/ships/Lepidoptian/LepidoptianT6.structure",
+				"/ships/Lepidoptian/LepidoptianT7.structure", 
+				"/ships/Lepidoptian/LepidoptianT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/tsaiqir"},
+		{ "op" : "add",
+		"path" : "/speciesShips/tsaiqir",
+		"value" : [
+				"/ships/tsaiqir/tsaiqirT0.structure",
+				"/ships/tsaiqir/tsaiqirT1.structure",
+				"/ships/tsaiqir/tsaiqirT2.structure",
+				"/ships/tsaiqir/tsaiqirT3.structure",
+				"/ships/tsaiqir/tsaiqirT4.structure",
+				"/ships/tsaiqir/tsaiqirT5.structure",
+				"/ships/tsaiqir/tsaiqirT6.structure",
+				"/ships/tsaiqir/tsaiqirT7.structure", 
+				"/ships/tsaiqir/tsaiqirT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/taurikin"},
+		{ "op" : "add",
+		"path" : "/speciesShips/taurikin",
+		"value" : [
+				"/ships/taurikin/taurikinT0.structure",
+				"/ships/taurikin/taurikinT1.structure",
+				"/ships/taurikin/taurikinT2.structure",
+				"/ships/taurikin/taurikinT3.structure",
+				"/ships/taurikin/taurikinT4.structure",
+				"/ships/taurikin/taurikinT5.structure",
+				"/ships/taurikin/taurikinT6.structure",
+				"/ships/taurikin/taurikinT7.structure", 
+				"/ships/taurikin/taurikinT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/lyceen"},
+		{ "op" : "add",
+		"path" : "/speciesShips/lyceen",
+		"value" : [
+				"/ships/lyceen/lyceenT0.structure",
+				"/ships/lyceen/lyceenT1.structure",
+				"/ships/lyceen/lyceenT2.structure",
+				"/ships/lyceen/lyceenT3.structure",
+				"/ships/lyceen/lyceenT4.structure",
+				"/ships/lyceen/lyceenT5.structure",
+				"/ships/lyceen/lyceenT6.structure",
+				"/ships/lyceen/lyceenT7.structure", 
+				"/ships/lyceen/lyceenT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/rockhopperpenguin"},
+		{ "op" : "add",
+		"path" : "/speciesShips/rockhopperpenguin",
+		"value" : [
+				"/ships/penguin/penguinT0.structure",
+				"/ships/penguin/penguinT1.structure",
+				"/ships/penguin/penguinT2.structure",
+				"/ships/penguin/penguinT3.structure",
+				"/ships/penguin/penguinT4.structure",
+				"/ships/penguin/penguinT5.structure",
+				"/ships/penguin/penguinT6.structure",
+				"/ships/penguin/penguinT7.structure", 
+				"/ships/penguin/penguinT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/pengvolt"},
+		{ "op" : "add",
+		"path" : "/speciesShips/pengvolt",
+		"value" : [
+				"/ships/penguin/penguinT0.structure",
+				"/ships/penguin/penguinT1.structure",
+				"/ships/penguin/penguinT2.structure",
+				"/ships/penguin/penguinT3.structure",
+				"/ships/penguin/penguinT4.structure",
+				"/ships/penguin/penguinT5.structure",
+				"/ships/penguin/penguinT6.structure",
+				"/ships/penguin/penguinT7.structure", 
+				"/ships/penguin/penguinT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/pyroguin"},
+		{ "op" : "add",
+		"path" : "/speciesShips/pyroguin",
+		"value" : [
+				"/ships/penguin/penguinT0.structure",
+				"/ships/penguin/penguinT1.structure",
+				"/ships/penguin/penguinT2.structure",
+				"/ships/penguin/penguinT3.structure",
+				"/ships/penguin/penguinT4.structure",
+				"/ships/penguin/penguinT5.structure",
+				"/ships/penguin/penguinT6.structure",
+				"/ships/penguin/penguinT7.structure", 
+				"/ships/penguin/penguinT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/cryoguin"},
+		{ "op" : "add",
+		"path" : "/speciesShips/cryoguin",
+		"value" : [
+				"/ships/penguin/penguinT0.structure",
+				"/ships/penguin/penguinT1.structure",
+				"/ships/penguin/penguinT2.structure",
+				"/ships/penguin/penguinT3.structure",
+				"/ships/penguin/penguinT4.structure",
+				"/ships/penguin/penguinT5.structure",
+				"/ships/penguin/penguinT6.structure",
+				"/ships/penguin/penguinT7.structure", 
+				"/ships/penguin/penguinT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/plaguin"},
+		{ "op" : "add",
+		"path" : "/speciesShips/plaguin",
+		"value" : [
+				"/ships/penguin/penguinT0.structure",
+				"/ships/penguin/penguinT1.structure",
+				"/ships/penguin/penguinT2.structure",
+				"/ships/penguin/penguinT3.structure",
+				"/ships/penguin/penguinT4.structure",
+				"/ships/penguin/penguinT5.structure",
+				"/ships/penguin/penguinT6.structure",
+				"/ships/penguin/penguinT7.structure", 
+				"/ships/penguin/penguinT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/albinopenguin"},
+		{ "op" : "add",
+		"path" : "/speciesShips/albinopenguin",
+		"value" : [
+				"/ships/penguin/penguinT0.structure",
+				"/ships/penguin/penguinT1.structure",
+				"/ships/penguin/penguinT2.structure",
+				"/ships/penguin/penguinT3.structure",
+				"/ships/penguin/penguinT4.structure",
+				"/ships/penguin/penguinT5.structure",
+				"/ships/penguin/penguinT6.structure",
+				"/ships/penguin/penguinT7.structure", 
+				"/ships/penguin/penguinT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/vanillapenguin"},
+		{ "op" : "add",
+		"path" : "/speciesShips/vanillapenguin",
+		"value" : [
+				"/ships/penguin/penguinT0.structure",
+				"/ships/penguin/penguinT1.structure",
+				"/ships/penguin/penguinT2.structure",
+				"/ships/penguin/penguinT3.structure",
+				"/ships/penguin/penguinT4.structure",
+				"/ships/penguin/penguinT5.structure",
+				"/ships/penguin/penguinT6.structure",
+				"/ships/penguin/penguinT7.structure", 
+				"/ships/penguin/penguinT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/manicpenguin"},
+		{ "op" : "add",
+		"path" : "/speciesShips/manicpenguin",
+		"value" : [
+				"/ships/penguin/penguinT0.structure",
+				"/ships/penguin/penguinT1.structure",
+				"/ships/penguin/penguinT2.structure",
+				"/ships/penguin/penguinT3.structure",
+				"/ships/penguin/penguinT4.structure",
+				"/ships/penguin/penguinT5.structure",
+				"/ships/penguin/penguinT6.structure",
+				"/ships/penguin/penguinT7.structure", 
+				"/ships/penguin/penguinT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/robopenguin"},
+		{ "op" : "add",
+		"path" : "/speciesShips/robopenguin",
+		"value" : [
+				"/ships/penguin/penguinT0.structure",
+				"/ships/penguin/penguinT1.structure",
+				"/ships/penguin/penguinT2.structure",
+				"/ships/penguin/penguinT3.structure",
+				"/ships/penguin/penguinT4.structure",
+				"/ships/penguin/penguinT5.structure",
+				"/ships/penguin/penguinT6.structure",
+				"/ships/penguin/penguinT7.structure", 
+				"/ships/penguin/penguinT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/puffin"},
+		{ "op" : "add",
+		"path" : "/speciesShips/puffin",
+		"value" : [
+				"/ships/penguin/penguinT0.structure",
+				"/ships/penguin/penguinT1.structure",
+				"/ships/penguin/penguinT2.structure",
+				"/ships/penguin/penguinT3.structure",
+				"/ships/penguin/penguinT4.structure",
+				"/ships/penguin/penguinT5.structure",
+				"/ships/penguin/penguinT6.structure",
+				"/ships/penguin/penguinT7.structure", 
+				"/ships/penguin/penguinT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/pppenguin"},
+		{ "op" : "add",
+		"path" : "/speciesShips/pppenguin",
+		"value" : [
+				"/ships/penguin/penguinT0.structure",
+				"/ships/penguin/penguinT1.structure",
+				"/ships/penguin/penguinT2.structure",
+				"/ships/penguin/penguinT3.structure",
+				"/ships/penguin/penguinT4.structure",
+				"/ships/penguin/penguinT5.structure",
+				"/ships/penguin/penguinT6.structure",
+				"/ships/penguin/penguinT7.structure", 
+				"/ships/penguin/penguinT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/cruiser"},
+		{ "op" : "add",
+		"path" : "/speciesShips/cruiser",
+		"value" : [
+				"/ships/cruiser/cruiserT0.structure",
+				"/ships/cruiser/cruiserT1.structure",
+				"/ships/cruiser/cruiserT2.structure",
+				"/ships/cruiser/cruiserT3.structure",
+				"/ships/cruiser/cruiserT4.structure",
+				"/ships/cruiser/cruiserT5.structure",
+				"/ships/cruiser/cruiserT6.structure",
+				"/ships/cruiser/cruiserT7.structure", 
+				"/ships/cruiser/cruiserT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/nebulac"},
+		{ "op" : "add",
+		"path" : "/speciesShips/nebulac",
+		"value" : [
+				"/ships/nebulac/nebulacT0.structure",
+				"/ships/nebulac/nebulacT1.structure",
+				"/ships/nebulac/nebulacT2.structure",
+				"/ships/nebulac/nebulacT3.structure",
+				"/ships/nebulac/nebulacT4.structure",
+				"/ships/nebulac/nebulacT5.structure",
+				"/ships/nebulac/nebulacT6.structure",
+				"/ships/nebulac/nebulacT7.structure", 
+				"/ships/nebulac/nebulacT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/shoggoth"},
+		{ "op" : "add",
+		"path" : "/speciesShips/shoggoth",
+		"value" : [
+				"/ships/shoggoth/shoggothT0.structure",
+				"/ships/shoggoth/shoggothT1.structure",
+				"/ships/shoggoth/shoggothT2.structure",
+				"/ships/shoggoth/shoggothT3.structure",
+				"/ships/shoggoth/shoggothT4.structure",
+				"/ships/shoggoth/shoggothT5.structure",
+				"/ships/shoggoth/shoggothT6.structure",
+				"/ships/shoggoth/shoggothT7.structure", 
+				"/ships/shoggoth/shoggothT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/mindflayer"},
+		{ "op" : "add",
+		"path" : "/speciesShips/mindflayer",
+		"value" : [
+				"/ships/shoggoth/shoggothT0.structure",
+				"/ships/shoggoth/shoggothT1.structure",
+				"/ships/shoggoth/shoggothT2.structure",
+				"/ships/shoggoth/shoggothT3.structure",
+				"/ships/shoggoth/shoggothT4.structure",
+				"/ships/shoggoth/shoggothT5.structure",
+				"/ships/shoggoth/shoggothT6.structure",
+				"/ships/shoggoth/shoggothT7.structure", 
+				"/ships/shoggoth/shoggothT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/pop_fiend"},
+		{ "op" : "add",
+		"path" : "/speciesShips/pop_fiend",
+		"value" : [
+				"/ships/pop_fiend/pop_fiendT0.structure",
+				"/ships/pop_fiend/pop_fiendT1.structure",
+				"/ships/pop_fiend/pop_fiendT2.structure",
+				"/ships/pop_fiend/pop_fiendT3.structure",
+				"/ships/pop_fiend/pop_fiendT4.structure",
+				"/ships/pop_fiend/pop_fiendT5.structure",
+				"/ships/pop_fiend/pop_fiendT6.structure",
+				"/ships/pop_fiend/pop_fiendT7.structure", 
+				"/ships/pop_fiend/pop_fiendT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/braixen"},
+		{ "op" : "add",
+		"path" : "/speciesShips/braixen",
+		"value" : [
+				"/ships/braixen/braixenT0.structure",
+				"/ships/braixen/braixenT1.structure",
+				"/ships/braixen/braixenT2.structure",
+				"/ships/braixen/braixenT3.structure",
+				"/ships/braixen/braixenT4.structure",
+				"/ships/braixen/braixenT5.structure",
+				"/ships/braixen/braixenT6.structure",
+				"/ships/braixen/braixenT7.structure", 
+				"/ships/braixen/braixenT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/kyterran"},
+		{ "op" : "add",
+		"path" : "/speciesShips/kyterran",
+		"value" : [
+				"/ships/kyterran/kyterranT0.structure",
+				"/ships/kyterran/kyterranT1.structure",
+				"/ships/kyterran/kyterranT2.structure",
+				"/ships/kyterran/kyterranT3.structure",
+				"/ships/kyterran/kyterranT4.structure",
+				"/ships/kyterran/kyterranT5.structure",
+				"/ships/kyterran/kyterranT6.structure",
+				"/ships/kyterran/kyterranT7.structure", 
+				"/ships/kyterran/kyterranT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/mollopod"},
+		{ "op" : "add",
+		"path" : "/speciesShips/mollopod",
+		"value" : [
+				"/ships/mollopod/mollopodT0.structure",
+				"/ships/mollopod/mollopodT1.structure",
+				"/ships/mollopod/mollopodT2.structure",
+				"/ships/mollopod/mollopodT3.structure",
+				"/ships/mollopod/mollopodT4.structure",
+				"/ships/mollopod/mollopodT5.structure",
+				"/ships/mollopod/mollopodT6.structure",
+				"/ships/mollopod/mollopodT7.structure", 
+				"/ships/mollopod/mollopodT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/squamaeft"},
+		{ "op" : "add",
+		"path" : "/speciesShips/squamaeft",
+		"value" : [
+				"/ships/squamaeft/squamaeftT0.structure",
+				"/ships/squamaeft/squamaeftT1.structure",
+				"/ships/squamaeft/squamaeftT2.structure",
+				"/ships/squamaeft/squamaeftT3.structure",
+				"/ships/squamaeft/squamaeftT4.structure",
+				"/ships/squamaeft/squamaeftT5.structure",
+				"/ships/squamaeft/squamaeftT6.structure",
+				"/ships/squamaeft/squamaeftT7.structure", 
+				"/ships/squamaeft/squamaeftT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/hubsnugget"},
+		{ "op" : "add",
+		"path" : "/speciesShips/hubsnugget",
+		"value" : [
+				"/ships/hubsnugget/hubsnuggetT0.structure",
+				"/ships/hubsnugget/hubsnuggetT1.structure",
+				"/ships/hubsnugget/hubsnuggetT2.structure",
+				"/ships/hubsnugget/hubsnuggetT3.structure",
+				"/ships/hubsnugget/hubsnuggetT4.structure",
+				"/ships/hubsnugget/hubsnuggetT5.structure",
+				"/ships/hubsnugget/hubsnuggetT6.structure",
+				"/ships/hubsnugget/hubsnuggetT7.structure", 
+				"/ships/hubsnugget/hubsnuggetT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/lycanroc"},
+		{ "op" : "add",
+			"path" : "/speciesShips/lycanroc",
+			"value" : [
+				"/ships/lycanroc/lycanroct0.structure",
+				"/ships/lycanroc/lycanroct1.structure",
+				"/ships/lycanroc/lycanroct2.structure",
+				"/ships/lycanroc/lycanroct3.structure",
+				"/ships/lycanroc/lycanroct4.structure",
+				"/ships/lycanroc/lycanroct5.structure",
+				"/ships/lycanroc/lycanroct6.structure",
+				"/ships/lycanroc/lycanroct7.structure",
+				"/ships/lycanroc/lycanroct8.structure"
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/shadow"},
+		{ "op" : "add",
+		"path" : "/speciesShips/shadow",
+		"value" : [
+				"/ships/shadow/shadowT0.structure",
+				"/ships/shadow/shadowT1.structure",
+				"/ships/shadow/shadowT2.structure",
+				"/ships/shadow/shadowT3.structure",
+				"/ships/shadow/shadowT4.structure",
+				"/ships/shadow/shadowT5.structure",
+				"/ships/shadow/shadowT6.structure",
+				"/ships/shadow/shadowT7.structure", 
+				"/ships/shadow/shadowT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/veluu"},
+		{ "op" : "add",
+		"path" : "/speciesShips/veluu",
+		"value" : [
+				"/ships/veluu/veluuT0.structure",
+				"/ships/veluu/veluuT1.structure",
+				"/ships/veluu/veluuT2.structure",
+				"/ships/veluu/veluuT3.structure",
+				"/ships/veluu/veluuT4.structure",
+				"/ships/veluu/veluuT5.structure",
+				"/ships/veluu/veluuT6.structure",
+				"/ships/veluu/veluuT7.structure", 
+				"/ships/veluu/veluuT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/thelusian"},
+		{ "op" : "add",
+		"path" : "/speciesShips/thelusian",
+		"value" : [
+				"/ships/thelusian/thelusianT0.structure",
+				"/ships/thelusian/thelusianT1.structure",
+				"/ships/thelusian/thelusianT2.structure",
+				"/ships/thelusian/thelusianT3.structure",
+				"/ships/thelusian/thelusianT4.structure",
+				"/ships/thelusian/thelusianT5.structure",
+				"/ships/thelusian/thelusianT6.structure",
+				"/ships/thelusian/thelusianT7.structure", 
+				"/ships/thelusian/thelusianT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/solar"},
+		{ "op" : "add",
+		"path" : "/speciesShips/solar",
+		"value" : [
+				"/ships/solar/solarT0.structure",
+				"/ships/solar/solarT1.structure",
+				"/ships/solar/solarT2.structure",
+				"/ships/solar/solarT3.structure",
+				"/ships/solar/solarT4.structure",
+				"/ships/solar/solarT5.structure",
+				"/ships/solar/solarT6.structure",
+				"/ships/solar/solarT7.structure", 
+				"/ships/solar/solarT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/radien"},
+		{ "op" : "add",
+		"path" : "/speciesShips/radien",
+		"value" : [
+				"/ships/radien/radienT0.structure",
+				"/ships/radien/radienT1.structure",
+				"/ships/radien/radienT2.structure",
+				"/ships/radien/radienT3.structure",
+				"/ships/radien/radienT4.structure",
+				"/ships/radien/radienT5.structure",
+				"/ships/radien/radienT6.structure",
+				"/ships/radien/radienT7.structure", 
+				"/ships/radien/radienT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/nightar"},
+		{ "op" : "add",
+		"path" : "/speciesShips/nightar",
+		"value" : [
+				"/ships/nightar/nightarT0.structure",
+				"/ships/nightar/nightarT1.structure",
+				"/ships/nightar/nightarT2.structure",
+				"/ships/nightar/nightarT3.structure",
+				"/ships/nightar/nightarT4.structure",
+				"/ships/nightar/nightarT5.structure",
+				"/ships/nightar/nightarT6.structure",
+				"/ships/nightar/nightarT7.structure", 
+				"/ships/nightar/nightarT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/juux"},
+		{ "op" : "add",
+		"path" : "/speciesShips/juux",
+		"value" : [
+				"/ships/juux/juuxT0.structure",
+				"/ships/juux/juuxT1.structure",
+				"/ships/juux/juuxT2.structure",
+				"/ships/juux/juuxT3.structure",
+				"/ships/juux/juuxT4.structure",
+				"/ships/juux/juuxT5.structure",
+				"/ships/juux/juuxT6.structure",
+				"/ships/juux/juuxT7.structure", 
+				"/ships/juux/juuxT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/fumantizi"},
+		{ "op" : "add",
+		"path" : "/speciesShips/fumantizi",
+		"value" : [
+				"/ships/fumantizi/mantiziT0.structure",
+				"/ships/fumantizi/mantiziT1.structure",
+				"/ships/fumantizi/mantiziT2.structure",
+				"/ships/fumantizi/mantiziT3.structure",
+				"/ships/fumantizi/mantiziT4.structure",
+				"/ships/fumantizi/mantiziT5.structure",
+				"/ships/fumantizi/mantiziT6.structure",
+				"/ships/fumantizi/mantiziT7.structure", 
+				"/ships/fumantizi/mantiziT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/mantizi"},
+		{ "op" : "add",
+		"path" : "/speciesShips/mantizi",
+		"value" : [
+				"/ships/mantizi/mantiziT0.structure",
+				"/ships/mantizi/mantiziT1.structure",
+				"/ships/mantizi/mantiziT2.structure",
+				"/ships/mantizi/mantiziT3.structure",
+				"/ships/mantizi/mantiziT4.structure",
+				"/ships/mantizi/mantiziT5.structure",
+				"/ships/mantizi/mantiziT6.structure",
+				"/ships/mantizi/mantiziT7.structure", 
+				"/ships/mantizi/mantiziT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/fupeglaci"},
+		{ "op" : "add",
+		"path" : "/speciesShips/fupeglaci",
+		"value" : [
+				"/ships/fupeglaci/peglaciT0.structure",
+				"/ships/fupeglaci/peglaciT1.structure",
+				"/ships/fupeglaci/peglaciT2.structure",
+				"/ships/fupeglaci/peglaciT3.structure",
+				"/ships/fupeglaci/peglaciT4.structure",
+				"/ships/fupeglaci/peglaciT5.structure",
+				"/ships/fupeglaci/peglaciT6.structure",
+				"/ships/fupeglaci/peglaciT7.structure", 
+				"/ships/fupeglaci/peglaciT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/fudarkizku"},
+		{ "op" : "add",
+		"path" : "/speciesShips/fudarkizku",
+		"value" : [
+				"/ships/fudarkizku/humanT0.structure",
+				"/ships/fudarkizku/humanT1.structure",
+				"/ships/fudarkizku/humanT2.structure",
+				"/ships/fudarkizku/humanT3.structure",
+				"/ships/fudarkizku/humanT4.structure",
+				"/ships/fudarkizku/humanT5.structure",
+				"/ships/fudarkizku/humanT6.structure",
+				"/ships/fudarkizku/humanT7.structure", 
+				"/ships/fudarkizku/humanT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/fuizku"},
+		{ "op" : "add",
+		"path" : "/speciesShips/fuizku",
+		"value" : [
+				"/ships/fuizku/humanT0.structure",
+				"/ships/fuizku/humanT1.structure",
+				"/ships/fuizku/humanT2.structure",
+				"/ships/fuizku/humanT3.structure",
+				"/ships/fuizku/humanT4.structure",
+				"/ships/fuizku/humanT5.structure",
+				"/ships/fuizku/humanT6.structure",
+				"/ships/fuizku/humanT7.structure", 
+				"/ships/fuizku/humanT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/izku"},
+		{ "op" : "add",
+		"path" : "/speciesShips/izku",
+		"value" : [
+				"/ships/izku/humanT0.structure",
+				"/ships/izku/humanT1.structure",
+				"/ships/izku/humanT2.structure",
+				"/ships/izku/humanT3.structure",
+				"/ships/izku/humanT4.structure",
+				"/ships/izku/humanT5.structure",
+				"/ships/izku/humanT6.structure",
+				"/ships/izku/humanT7.structure", 
+				"/ships/izku/humanT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/fuanodyne"},
+		{ "op" : "add",
+		"path" : "/speciesShips/fuanodyne",
+		"value" : [
+				"/ships/fuanodyne/fukirhosT0.structure",
+				"/ships/fuanodyne/fukirhosT1.structure",
+				"/ships/fuanodyne/fukirhosT2.structure",
+				"/ships/fuanodyne/fukirhosT3.structure",
+				"/ships/fuanodyne/fukirhosT4.structure",
+				"/ships/fuanodyne/fukirhosT5.structure",
+				"/ships/fuanodyne/fukirhosT6.structure",
+				"/ships/fuanodyne/fukirhosT7.structure", 
+				"/ships/fuanodyne/fukirhosT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/elduukhar"},
+		{ "op" : "add",
+		"path" : "/speciesShips/elduukhar",
+		"value" : [
+				"/ships/elduukhar/elduukharT0.structure",
+				"/ships/elduukhar/elduukharT1.structure",
+				"/ships/elduukhar/elduukharT2.structure",
+				"/ships/elduukhar/elduukharT3.structure",
+				"/ships/elduukhar/elduukharT4.structure",
+				"/ships/elduukhar/elduukharT5.structure",
+				"/ships/elduukhar/elduukharT6.structure",
+				"/ships/elduukhar/elduukharT7.structure", 
+				"/ships/elduukhar/elduukharT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/dvarians"},
+		{ "op" : "add",
+		"path" : "/speciesShips/dvarians",
+		"value" : [
+				"/ships/dvarians/dvariansT0.structure",
+				"/ships/dvarians/dvariansT1.structure",
+				"/ships/dvarians/dvariansT2.structure",
+				"/ships/dvarians/dvariansT3.structure",
+				"/ships/dvarians/dvariansT4.structure",
+				"/ships/dvarians/dvariansT5.structure",
+				"/ships/dvarians/dvariansT6.structure",
+				"/ships/dvarians/dvariansT7.structure", 
+				"/ships/dvarians/dvariansT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/sergal"},
+		{ "op" : "add",
+		"path" : "/speciesShips/sergal",
+		"value" : [
+				"/ships/sergal/sergalT0.structure",
+				"/ships/sergal/sergalT1.structure",
+				"/ships/sergal/sergalT2.structure",
+				"/ships/sergal/sergalT3.structure",
+				"/ships/sergal/sergalT4.structure",
+				"/ships/sergal/sergalT5.structure",
+				"/ships/sergal/sergalT6.structure",
+				"/ships/sergal/sergalT7.structure", 
+				"/ships/sergal/sergalT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/fennix"},
+		{ "op" : "add",
+		"path" : "/speciesShips/fennix",
+		"value" : [
+				"/ships/fennix/fennixT0.structure",
+				"/ships/fennix/fennixT1.structure",
+				"/ships/fennix/fennixT2.structure",
+				"/ships/fennix/fennixT3.structure",
+				"/ships/fennix/fennixT4.structure",
+				"/ships/fennix/fennixT5.structure",
+				"/ships/fennix/fennixT6.structure",
+				"/ships/fennix/fennixT7.structure", 
+				"/ships/fennix/fennixT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/elysian"},
+		{ "op" : "add",
+		"path" : "/speciesShips/elysian",
+		"value" : [
+				"/ships/elysian/elysianT0.structure",
+				"/ships/elysian/elysianT1.structure",
+				"/ships/elysian/elysianT2.structure",
+				"/ships/elysian/elysianT3.structure",
+				"/ships/elysian/elysianT4.structure",
+				"/ships/elysian/elysianT5.structure",
+				"/ships/elysian/elysianT6.structure",
+				"/ships/elysian/elysianT7.structure", 
+				"/ships/elysian/elysianT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/eevee"},
+		{ "op" : "add",
+		"path" : "/speciesShips/eevee",
+		"value" : [
+			"/ships/eevee/eeveeT0.structure",
+			"/ships/eevee/eeveeT1.structure",
+			"/ships/eevee/eeveeT2.structure",
+			"/ships/eevee/eeveeT3.structure",
+			"/ships/eevee/eeveeT4.structure",
+			"/ships/eevee/eeveeT5.structure",
+			"/ships/eevee/eeveeT6.structure",
+			"/ships/eevee/eeveeT7.structure", 
+			"/ships/eevee/eeveeT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/kitsune"},
+		{ "op" : "add",
+		"path" : "/speciesShips/kitsune",
+		"value" : [
+			"/ships/kitsune/kitsuneT0.structure",
+			"/ships/kitsune/kitsuneT1.structure",
+			"/ships/kitsune/kitsuneT2.structure",
+			"/ships/kitsune/kitsuneT3.structure",
+			"/ships/kitsune/kitsuneT4.structure",
+			"/ships/kitsune/kitsuneT5.structure",
+			"/ships/kitsune/kitsuneT6.structure",
+			"/ships/kitsune/kitsuneT7.structure", 
+			"/ships/kitsune/kitsuneT8.structure"
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/markazian"},
+		{ "op" : "add",
+		"path" : "/speciesShips/markazian",
+		"value" : [
+			"/ships/markazian/markazianT0.structure",
+			"/ships/markazian/markazianT1.structure",
+			"/ships/markazian/markazianT2.structure",
+			"/ships/markazian/markazianT3.structure",
+			"/ships/markazian/markazianT4.structure",
+			"/ships/markazian/markazianT5.structure",
+			"/ships/markazian/markazianT6.structure",
+			"/ships/markazian/markazianT7.structure", 
+			"/ships/markazian/markazianT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/lombax_striped"},
+		{ "op" : "add",
+		"path" : "/speciesShips/lombax_striped",
+		"value" : [
+			"/ships/lombax_striped/lombax_stripedT0.structure",
+			"/ships/lombax_striped/lombax_stripedT1.structure",
+			"/ships/lombax_striped/lombax_stripedT2.structure",
+			"/ships/lombax_striped/lombax_stripedT3.structure",
+			"/ships/lombax_striped/lombax_stripedT4.structure",
+			"/ships/lombax_striped/lombax_stripedT5.structure",
+			"/ships/lombax_striped/lombax_stripedT6.structure",
+			"/ships/lombax_striped/lombax_stripedT7.structure", 
+			"/ships/lombax_striped/lombax_stripedT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/lombax_pointed"},
+		{ "op" : "add",
+		"path" : "/speciesShips/lombax_pointed",
+		"value" : [
+			"/ships/lombax_pointed/lombax_pointedT0.structure",
+			"/ships/lombax_pointed/lombax_pointedT1.structure",
+			"/ships/lombax_pointed/lombax_pointedT2.structure",
+			"/ships/lombax_pointed/lombax_pointedT3.structure",
+			"/ships/lombax_pointed/lombax_pointedT4.structure",
+			"/ships/lombax_pointed/lombax_pointedT5.structure",
+			"/ships/lombax_pointed/lombax_pointedT6.structure",
+			"/ships/lombax_pointed/lombax_pointedT7.structure", 
+			"/ships/lombax_pointed/lombax_pointedT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/deerfolk"},
+		{ "op" : "add",
+		"path" : "/speciesShips/deerfolk",
+		"value" : [
+			"/ships/deerfolk/deerfolkT0.structure",
+			"/ships/deerfolk/deerfolkT1.structure",
+			"/ships/deerfolk/deerfolkT2.structure",
+			"/ships/deerfolk/deerfolkT3.structure",
+			"/ships/deerfolk/deerfolkT4.structure",
+			"/ships/deerfolk/deerfolkT5.structure",
+			"/ships/deerfolk/deerfolkT6.structure",
+			"/ships/deerfolk/deerfolkT7.structure", 
+			"/ships/deerfolk/deerfolkT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/lucario"},
+		{ "op" : "add",
+		"path" : "/speciesShips/lucario",
+		"value" : [
+			"/ships/lucario/lucarioT0.structure",
+			"/ships/lucario/lucarioT1.structure",
+			"/ships/lucario/lucarioT2.structure",
+			"/ships/lucario/lucarioT3.structure",
+			"/ships/lucario/lucarioT4.structure",
+			"/ships/lucario/lucarioT5.structure",
+			"/ships/lucario/lucarioT6.structure",
+			"/ships/lucario/lucarioT7.structure", 
+			"/ships/lucario/lucarioT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/nebulite"},
+		{ "op" : "add",
+		"path" : "/speciesShips/nebulite",
+		"value" : [
+			"/ships/nebulite/nebuliteT0.structure",
+			"/ships/nebulite/nebuliteT1.structure",
+			"/ships/nebulite/nebuliteT2.structure",
+			"/ships/nebulite/nebuliteT3.structure",
+			"/ships/nebulite/nebuliteT4.structure",
+			"/ships/nebulite/nebuliteT5.structure",
+			"/ships/nebulite/nebuliteT6.structure",
+			"/ships/nebulite/nebuliteT7.structure", 
+			"/ships/nebulite/nebuliteT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/tauren"},
+		{ "op" : "add",
+		"path" : "/speciesShips/tauren",
+		"value" : [
+			"/ships/tauren/taurenT0.structure",
+			"/ships/tauren/taurenT1.structure",
+			"/ships/tauren/taurenT2.structure",
+			"/ships/tauren/taurenT3.structure",
+			"/ships/tauren/taurenT4.structure",
+			"/ships/tauren/taurenT5.structure",
+			"/ships/tauren/taurenT6.structure",
+			"/ships/tauren/taurenT7.structure", 
+			"/ships/tauren/taurenT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/vulpes"},
+		{ "op" : "add",
+		"path" : "/speciesShips/vulpes",
+		"value" : [
+			"/ships/vulpes/vulpesT0.structure",
+			"/ships/vulpes/vulpesT1.structure",
+			"/ships/vulpes/vulpesT2.structure",
+			"/ships/vulpes/vulpesT3.structure",
+			"/ships/vulpes/vulpesT4.structure",
+			"/ships/vulpes/vulpesT5.structure",
+			"/ships/vulpes/vulpesT6.structure",
+			"/ships/vulpes/vulpesT7.structure", 
+			"/ships/vulpes/vulpesT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/cat"},
+		{ "op" : "add",
+		"path" : "/speciesShips/cat",
+		"value" : [
+			"/ships/cat/catT0.structure",
+			"/ships/cat/catT1.structure",
+			"/ships/cat/catT2.structure",
+			"/ships/cat/catT3.structure",
+			"/ships/cat/catT4.structure",
+			"/ships/cat/catT5.structure",
+			"/ships/cat/catT6.structure",
+			"/ships/cat/catT7.structure", 
+			"/ships/cat/catT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/woggle"},
+		{ "op" : "add",
+		"path" : "/speciesShips/woggle",
+		"value" : [
+			"/ships/woggle/woggleT0.structure",
+			"/ships/woggle/woggleT1.structure",
+			"/ships/woggle/woggleT2.structure",
+			"/ships/woggle/woggleT3.structure",
+			"/ships/woggle/woggleT4.structure",
+			"/ships/woggle/woggleT5.structure",
+			"/ships/woggle/woggleT6.structure",
+			"/ships/woggle/woggleT7.structure", 
+			"/ships/woggle/woggleT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/peglaci"},
+		{ "op" : "add",
+		"path" : "/speciesShips/peglaci",
+		"value" : [
+			"/ships/peglaci/peglaciT0.structure",
+			"/ships/peglaci/peglaciT1.structure",
+			"/ships/peglaci/peglaciT2.structure",
+			"/ships/peglaci/peglaciT3.structure",
+			"/ships/peglaci/peglaciT4.structure",
+			"/ships/peglaci/peglaciT5.structure",
+			"/ships/peglaci/peglaciT6.structure",
+			"/ships/peglaci/peglaciT7.structure", 
+			"/ships/peglaci/peglaciT8.structure" 
+		]
+	}	
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/arachne"},
+		{ "op" : "add",
+		"path" : "/speciesShips/arachne",
+		"value" : [
+			"/ships/arachne/arachneT0.structure",
+			"/ships/arachne/arachneT1.structure",
+			"/ships/arachne/arachneT2.structure",
+			"/ships/arachne/arachneT3.structure",
+			"/ships/arachne/arachneT4.structure",
+			"/ships/arachne/arachneT5.structure",
+			"/ships/arachne/arachneT6.structure",
+			"/ships/arachne/arachneT7.structure", 
+			"/ships/arachne/arachneT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/lagi"},
+		{ "op" : "add",
+		"path" : "/speciesShips/lagi",
+		"value" : [
+			"/ships/lagi/lagiT0.structure",
+			"/ships/lagi/lagiT1.structure",
+			"/ships/lagi/lagiT2.structure",
+			"/ships/lagi/lagiT3.structure",
+			"/ships/lagi/lagiT4.structure",
+			"/ships/lagi/lagiT5.structure",
+			"/ships/lagi/lagiT6.structure",
+			"/ships/lagi/lagiT7.structure", 
+			"/ships/lagi/lagiT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/everis"},
+		{ "op" : "add",
+		"path" : "/speciesShips/everis",
+		"value" : [
+			"/ships/everis/everisT0.structure",
+			"/ships/everis/everisT1.structure",
+			"/ships/everis/everisT2.structure",
+			"/ships/everis/everisT3.structure",
+			"/ships/everis/everisT4.structure",
+			"/ships/everis/everisT5.structure",
+			"/ships/everis/everisT6.structure",
+			"/ships/everis/everisT7.structure", 
+			"/ships/everis/everisT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/alpaca"},
+		{ "op" : "add",
+		"path" : "/speciesShips/alpaca",
+		"value" : [
+			"/ships/alpaca/alpacaT0.structure",
+			"/ships/alpaca/alpacaT1.structure",
+			"/ships/alpaca/alpacaT2.structure",
+			"/ships/alpaca/alpacaT3.structure",
+			"/ships/alpaca/alpacaT4.structure",
+			"/ships/alpaca/alpacaT5.structure",
+			"/ships/alpaca/alpacaT6.structure",
+			"/ships/alpaca/alpacaT7.structure", 
+			"/ships/alpaca/alpacaT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/anodyne"},
+		{ "op" : "add",
+		"path" : "/speciesShips/anodyne",
+		"value" : [
+			"/ships/anodyne/anodyneT0.structure",
+			"/ships/anodyne/anodyneT1.structure",
+			"/ships/anodyne/anodyneT2.structure",
+			"/ships/anodyne/anodyneT3.structure",
+			"/ships/anodyne/anodyneT4.structure",
+			"/ships/anodyne/anodyneT5.structure",
+			"/ships/anodyne/anodyneT6.structure",
+			"/ships/anodyne/anodyneT7.structure", 
+			"/ships/anodyne/anodyneT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/kobold"},
+		{ "op" : "add",
+		"path" : "/speciesShips/kobold",
+		"value" : [
+			"/ships/kobold/koboldT0.structure",
+			"/ships/kobold/koboldT1.structure",
+			"/ships/kobold/koboldT2.structure",
+			"/ships/kobold/koboldT3.structure",
+			"/ships/kobold/koboldT4.structure",
+			"/ships/kobold/koboldT5.structure",
+			"/ships/kobold/koboldT6.structure",
+			"/ships/kobold/koboldT7.structure", 
+			"/ships/kobold/koboldT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/vortian"},
+		{ "op" : "add",
+		"path" : "/speciesShips/vortian",
+		"value" : [
+			"/ships/vortian/vortianT0.structure",
+			"/ships/vortian/vortianT1.structure",
+			"/ships/vortian/vortianT2.structure",
+			"/ships/vortian/vortianT3.structure",
+			"/ships/vortian/vortianT4.structure",
+			"/ships/vortian/vortianT5.structure",
+			"/ships/vortian/vortianT6.structure",
+			"/ships/vortian/vortianT7.structure", 
+			"/ships/vortian/vortianT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/irken"},
+		{ "op" : "add",
+		"path" : "/speciesShips/irken",
+		"value" : [
+			"/ships/irken/irkenT0.structure",
+			"/ships/irken/irkenT1.structure",
+			"/ships/irken/irkenT2.structure",
+			"/ships/irken/irkenT3.structure",
+			"/ships/irken/irkenT4.structure",
+			"/ships/irken/irkenT5.structure",
+			"/ships/irken/irkenT6.structure",
+			"/ships/irken/irkenT7.structure", 
+			"/ships/irken/irkenT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/GoatPerson"},
+		{ "op" : "add",
+		"path" : "/speciesShips/GoatPerson",
+		"value" : [
+			"/ships/GoatPerson/GoatPersonT0.structure",
+			"/ships/GoatPerson/GoatPersonT1.structure",
+			"/ships/GoatPerson/GoatPersonT2.structure",
+			"/ships/GoatPerson/GoatPersonT3.structure",
+			"/ships/GoatPerson/GoatPersonT4.structure",
+			"/ships/GoatPerson/GoatPersonT5.structure",
+			"/ships/GoatPerson/GoatPersonT6.structure",
+			"/ships/GoatPerson/GoatPersonT7.structure", 
+			"/ships/GoatPerson/GoatPersonT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/greckan"},
+		{ "op" : "add",
+		"path" : "/speciesShips/greckan",
+		"value" : [
+			"/ships/greckan/greckanT0.structure",
+			"/ships/greckan/greckanT1.structure",
+			"/ships/greckan/greckanT2.structure",
+			"/ships/greckan/greckanT3.structure",
+			"/ships/greckan/greckanT4.structure",
+			"/ships/greckan/greckanT5.structure",
+			"/ships/greckan/greckanT6.structure",
+			"/ships/greckan/greckanT7.structure", 
+			"/ships/greckan/greckanT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/draenei"},
+		{ "op" : "add",
+		"path" : "/speciesShips/draenei",
+		"value" : [
+			"/ships/draenei/draeneiT0.structure",
+			"/ships/draenei/draeneiT1.structure",
+			"/ships/draenei/draeneiT2.structure",
+			"/ships/draenei/draeneiT3.structure",
+			"/ships/draenei/draeneiT4.structure",
+			"/ships/draenei/draeneiT5.structure",
+			"/ships/draenei/draeneiT6.structure",
+			"/ships/draenei/draeneiT7.structure", 
+			"/ships/draenei/draeneiT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/elite"},
+		{ "op" : "add",
+		"path" : "/speciesShips/elite",
+		"value" : [
+			"/ships/elite/eliteT0.structure",
+			"/ships/elite/eliteT1.structure",
+			"/ships/elite/eliteT2.structure",
+			"/ships/elite/eliteT3.structure",
+			"/ships/elite/eliteT4.structure",
+			"/ships/elite/eliteT5.structure",
+			"/ships/elite/eliteT6.structure",
+			"/ships/elite/eliteT7.structure", 
+			"/ships/elite/eliteT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/brute"},
+		{ "op" : "add",
+		"path" : "/speciesShips/brute",
+		"value" : [
+			"/ships/brute/bruteT0.structure",
+			"/ships/brute/bruteT1.structure",
+			"/ships/brute/bruteT2.structure",
+			"/ships/brute/bruteT3.structure",
+			"/ships/brute/bruteT4.structure",
+			"/ships/brute/bruteT5.structure",
+			"/ships/brute/bruteT6.structure",
+			"/ships/brute/bruteT7.structure", 
+			"/ships/brute/bruteT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/Indix"},
+		{ "op" : "add",
+		"path" : "/speciesShips/Indix",
+		"value" : [
+			"/ships/Indix/IndixT0.structure",
+			"/ships/Indix/IndixT1.structure",
+			"/ships/Indix/IndixT2.structure",
+			"/ships/Indix/IndixT3.structure",
+			"/ships/Indix/IndixT4.structure",
+			"/ships/Indix/IndixT5.structure",
+			"/ships/Indix/IndixT6.structure",
+			"/ships/Indix/IndixT7.structure", 
+			"/ships/Indix/IndixT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/neko"},
+		{ "op" : "add",
+		"path" : "/speciesShips/neko",
+		"value" : [
+			"/ships/neko/nekoT0.structure",
+			"/ships/neko/nekoT1.structure",
+			"/ships/neko/nekoT2.structure",
+			"/ships/neko/nekoT3.structure",
+			"/ships/neko/nekoT4.structure",
+			"/ships/neko/nekoT5.structure",
+			"/ships/neko/nekoT6.structure",
+			"/ships/neko/nekoT7.structure", 
+			"/ships/neko/nekoT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/phox"},
+		{ "op" : "add",
+		"path" : "/speciesShips/phox",
+		"value" : [
+			"/ships/phox/phoxT0.structure",
+			"/ships/phox/phoxT1.structure",
+			"/ships/phox/phoxT2.structure",
+			"/ships/phox/phoxT3.structure",
+			"/ships/phox/phoxT4.structure",
+			"/ships/phox/phoxT5.structure",
+			"/ships/phox/phoxT6.structure",
+			"/ships/phox/phoxT7.structure", 
+			"/ships/phox/phoxT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/saturn2"},
+		{ "op" : "add",
+		"path" : "/speciesShips/saturn2",
+		"value" : [
+			"/ships/saturn2/saturn2T0.structure",
+			"/ships/saturn2/saturn2T1.structure",
+			"/ships/saturn2/saturn2T2.structure",
+			"/ships/saturn2/saturn2T3.structure",
+			"/ships/saturn2/saturn2T4.structure",
+			"/ships/saturn2/saturn2T5.structure",
+			"/ships/saturn2/saturn2T6.structure",
+			"/ships/saturn2/saturn2T7.structure", 
+			"/ships/saturn2/saturn2T8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/saturn"},
+		{ "op" : "add",
+		"path" : "/speciesShips/saturn",
+		"value" : [
+			"/ships/saturn/saturnT0.structure",
+			"/ships/saturn/saturnT1.structure",
+			"/ships/saturn/saturnT2.structure",
+			"/ships/saturn/saturnT3.structure",
+			"/ships/saturn/saturnT4.structure",
+			"/ships/saturn/saturnT5.structure",
+			"/ships/saturn/saturnT6.structure",
+			"/ships/saturn/saturnT7.structure", 
+			"/ships/saturn/saturnT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/shade"},
+		{ "op" : "add",
+		"path" : "/speciesShips/shade",
+		"value" : [
+			"/ships/shade/shadeT0.structure",
+			"/ships/shade/shadeT1.structure",
+			"/ships/shade/shadeT2.structure",
+			"/ships/shade/shadeT3.structure",
+			"/ships/shade/shadeT4.structure",
+			"/ships/shade/shadeT5.structure",
+			"/ships/shade/shadeT6.structure",
+			"/ships/shade/shadeT7.structure", 
+			"/ships/shade/shadeT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/terrakin"},
+		{ "op" : "add",
+		"path" : "/speciesShips/terrakin",
+		"value" : [
+			"/ships/terrakin/terrakinT0.structure",
+			"/ships/terrakin/terrakinT1.structure",
+			"/ships/terrakin/terrakinT2.structure",
+			"/ships/terrakin/terrakinT3.structure",
+			"/ships/terrakin/terrakinT4.structure",
+			"/ships/terrakin/terrakinT5.structure",
+			"/ships/terrakin/terrakinT6.structure",
+			"/ships/terrakin/terrakinT7.structure", 
+			"/ships/terrakin/terrakinT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/Zoroark"},
+		{ "op" : "add",
+		"path" : "/speciesShips/Zoroark",
+		"value" : [
+			"/ships/Zoroark/ZoroarkT0.structure",
+			"/ships/Zoroark/ZoroarkT1.structure",
+			"/ships/Zoroark/ZoroarkT2.structure",
+			"/ships/Zoroark/ZoroarkT3.structure",
+			"/ships/Zoroark/ZoroarkT4.structure",
+			"/ships/Zoroark/ZoroarkT5.structure",
+			"/ships/Zoroark/ZoroarkT6.structure",
+			"/ships/Zoroark/ZoroarkT7.structure", 
+			"/ships/Zoroark/ZoroarkT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/penguin"},
+		{ "op" : "add",
+		"path" : "/speciesShips/penguin",
+		"value" : [
+			"/ships/penguin/penguinT0.structure",
+			"/ships/penguin/penguinT1.structure",
+			"/ships/penguin/penguinT2.structure",
+			"/ships/penguin/penguinT3.structure",
+			"/ships/penguin/penguinT4.structure",
+			"/ships/penguin/penguinT5.structure",
+			"/ships/penguin/penguinT6.structure",
+			"/ships/penguin/penguinT7.structure", 
+			"/ships/penguin/penguinT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/gyrusen"},
+		{ "op" : "add",
+		"path" : "/speciesShips/gyrusen",
+		"value" : [
+			"/ships/gyrusen/gyrusenT0.structure",
+			"/ships/gyrusen/gyrusenT1.structure",
+			"/ships/gyrusen/gyrusenT2.structure",
+			"/ships/gyrusen/gyrusenT3.structure",
+			"/ships/gyrusen/gyrusenT4.structure",
+			"/ships/gyrusen/gyrusenT5.structure",
+			"/ships/gyrusen/gyrusenT6.structure",
+			"/ships/gyrusen/gyrusenT7.structure", 
+			"/ships/gyrusen/gyrusenT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/dragon"},
+		{ "op" : "add",
+		"path" : "/speciesShips/dragon",
+		"value" : [
+			"/ships/dragon/dragonT0.structure",
+			"/ships/dragon/dragonT1.structure",
+			"/ships/dragon/dragonT2.structure",
+			"/ships/dragon/dragonT3.structure",
+			"/ships/dragon/dragonT4.structure",
+			"/ships/dragon/dragonT5.structure",
+			"/ships/dragon/dragonT6.structure",
+			"/ships/dragon/dragonT7.structure", 
+			"/ships/dragon/dragonT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/slimeperson"},
+		{ "op" : "add",
+		"path" : "/speciesShips/slimeperson",
+		"value" : [
+			"/ships/slimeperson/slimepersonT0.structure",
+			"/ships/slimeperson/slimepersonT1.structure",
+			"/ships/slimeperson/slimepersonT2.structure",
+			"/ships/slimeperson/slimepersonT3.structure",
+			"/ships/slimeperson/slimepersonT4.structure",
+			"/ships/slimeperson/slimepersonT5.structure",
+			"/ships/slimeperson/slimepersonT6.structure",
+			"/ships/slimeperson/slimepersonT7.structure", 
+			"/ships/slimeperson/slimepersonT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/skath"},
+		{ "op" : "add",
+		"path" : "/speciesShips/skath",
+		"value" : [
+			"/ships/skath/skathT0.structure",
+			"/ships/skath/skathT1.structure",
+			"/ships/skath/skathT2.structure",
+			"/ships/skath/skathT3.structure",
+			"/ships/skath/skathT4.structure",
+			"/ships/skath/skathT5.structure",
+			"/ships/skath/skathT6.structure",
+			"/ships/skath/skathT7.structure", 
+			"/ships/skath/skathT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/kirhos"},
+		{ "op" : "add",
+		"path" : "/speciesShips/kirhos",
+		"value" : [
+			"/ships/kirhos/kirhosT0.structure",
+			"/ships/kirhos/kirhosT1.structure",
+			"/ships/kirhos/kirhosT2.structure",
+			"/ships/kirhos/kirhosT3.structure",
+			"/ships/kirhos/kirhosT4.structure",
+			"/ships/kirhos/kirhosT5.structure",
+			"/ships/kirhos/kirhosT6.structure",
+			"/ships/kirhos/kirhosT7.structure", 
+			"/ships/kirhos/kirhosT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/skelekin"},
+		{ "op" : "add",
+		"path" : "/speciesShips/skelekin",
+		"value" : [
+			"/ships/skelekin/skelekinT0.structure",
+			"/ships/skelekin/skelekinT1.structure",
+			"/ships/skelekin/skelekinT2.structure",
+			"/ships/skelekin/skelekinT3.structure",
+			"/ships/skelekin/skelekinT4.structure",
+			"/ships/skelekin/skelekinT5.structure",
+			"/ships/skelekin/skelekinT6.structure",
+			"/ships/skelekin/skelekinT7.structure", 
+			"/ships/skelekin/skelekinT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/Attarran"},
+		{ "op" : "add",
+		"path" : "/speciesShips/Attarran",
+		"value" : [
+			"/ships/Attarran/AttarranT0.structure",
+			"/ships/Attarran/AttarranT1.structure",
+			"/ships/Attarran/AttarranT2.structure",
+			"/ships/Attarran/AttarranT3.structure",
+			"/ships/Attarran/AttarranT4.structure",
+			"/ships/Attarran/AttarranT5.structure",
+			"/ships/Attarran/AttarranT6.structure",
+			"/ships/Attarran/AttarranT7.structure", 
+			"/ships/Attarran/AttarranT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/ooze"},
+		{ "op" : "add",
+		"path" : "/speciesShips/ooze",
+		"value" : [
+			"/ships/ooze/oozeT0.structure",
+			"/ships/ooze/oozeT1.structure",
+			"/ships/ooze/oozeT2.structure",
+			"/ships/ooze/oozeT3.structure",
+			"/ships/ooze/oozeT4.structure",
+			"/ships/ooze/oozeT5.structure",
+			"/ships/ooze/oozeT6.structure",
+			"/ships/ooze/oozeT7.structure", 
+			"/ships/ooze/oozeT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/elunite"},
+		{ "op" : "add",
+		"path" : "/speciesShips/elunite",
+		"value" : [
+			"/ships/elunite/eluniteT0.structure",
+			"/ships/elunite/eluniteT1.structure",
+			"/ships/elunite/eluniteT2.structure",
+			"/ships/elunite/eluniteT3.structure",
+			"/ships/elunite/eluniteT4.structure",
+			"/ships/elunite/eluniteT5.structure",
+			"/ships/elunite/eluniteT6.structure",
+			"/ships/elunite/eluniteT7.structure", 
+			"/ships/elunite/eluniteT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/lamia"},
+		{ "op" : "add",
+		"path" : "/speciesShips/lamia",
+		"value" : [
+			"/ships/lamia/lamiaT0.structure",
+			"/ships/lamia/lamiaT1.structure",
+			"/ships/lamia/lamiaT2.structure",
+			"/ships/lamia/lamiaT3.structure",
+			"/ships/lamia/lamiaT4.structure",
+			"/ships/lamia/lamiaT5.structure",
+			"/ships/lamia/lamiaT6.structure",
+			"/ships/lamia/lamiaT7.structure", 
+			"/ships/lamia/lamiaT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/wasphive"},
+		{ "op" : "add",
+		"path" : "/speciesShips/wasphive",
+		"value" : [
+			"/ships/wasphive/wasphiveT0.structure",
+			"/ships/wasphive/wasphiveT1.structure",
+			"/ships/wasphive/wasphiveT2.structure",
+			"/ships/wasphive/wasphiveT3.structure",
+			"/ships/wasphive/wasphiveT4.structure",
+			"/ships/wasphive/wasphiveT5.structure",
+			"/ships/wasphive/wasphiveT6.structure",
+			"/ships/wasphive/wasphiveT7.structure", 
+			"/ships/wasphive/wasphiveT8.structure" 
+			]
+		}	
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/argonian"},
+		{ "op" : "add",
+		"path" : "/speciesShips/argonian",
+		"value" : [
+			"/ships/argonian/argonianT0.structure",
+			"/ships/argonian/argonianT1.structure",
+			"/ships/argonian/argonianT2.structure",
+			"/ships/argonian/argonianT3.structure",
+			"/ships/argonian/argonianT4.structure",
+			"/ships/argonian/argonianT5.structure",
+			"/ships/argonian/argonianT6.structure",
+			"/ships/argonian/argonianT7.structure", 
+			"/ships/argonian/argonianT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/munari"},
+		{ "op" : "add",
+		"path" : "/speciesShips/munari",
+		"value" : [
+			"/ships/munari/munariT0.structure",
+			"/ships/munari/munariT1.structure",
+			"/ships/munari/munariT2.structure",
+			"/ships/munari/munariT3.structure",
+			"/ships/munari/munariT4.structure",
+			"/ships/munari/munariT5.structure",
+			"/ships/munari/munariT6.structure",
+			"/ships/munari/munariT7.structure", 
+			"/ships/munari/munariT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/inkling"},
+		{ "op" : "add",
+		"path" : "/speciesShips/inkling",
+		"value" : [
+			"/ships/inkling/inklingT0.structure",
+			"/ships/inkling/inklingT1.structure",
+			"/ships/inkling/inklingT2.structure",
+			"/ships/inkling/inklingT3.structure",
+			"/ships/inkling/inklingT4.structure",
+			"/ships/inkling/inklingT5.structure",
+			"/ships/inkling/inklingT6.structure",
+			"/ships/inkling/inklingT7.structure", 
+			"/ships/inkling/inklingT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/bunnykin"},
+		{ "op" : "add",
+		"path" : "/speciesShips/bunnykin",
+		"value" : [
+			"/ships/bunnykin/bunnykinT0.structure",
+			"/ships/bunnykin/bunnykinT1.structure",
+			"/ships/bunnykin/bunnykinT2.structure",
+			"/ships/bunnykin/bunnykinT3.structure",
+			"/ships/bunnykin/bunnykinT4.structure",
+			"/ships/bunnykin/bunnykinT5.structure",
+			"/ships/bunnykin/bunnykinT6.structure",
+			"/ships/bunnykin/bunnykinT7.structure", 
+			"/ships/bunnykin/bunnykinT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/viera"},
+		{ "op" : "add",
+		"path" : "/speciesShips/viera",
+		"value" : [
+			"/ships/viera/vieraT0.structure",
+			"/ships/viera/vieraT1.structure",
+			"/ships/viera/vieraT2.structure",
+			"/ships/viera/vieraT3.structure",
+			"/ships/viera/vieraT4.structure",
+			"/ships/viera/vieraT5.structure",
+			"/ships/viera/vieraT6.structure",
+			"/ships/viera/vieraT7.structure", 
+			"/ships/viera/vieraT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/fenerox"},
+		{ "op" : "add",
+		"path" : "/speciesShips/fenerox",
+		"value" : [
+			"/ships/fenerox/feneroxT0.structure",
+			"/ships/fenerox/feneroxT1.structure",
+			"/ships/fenerox/feneroxT2.structure",
+			"/ships/fenerox/feneroxT3.structure",
+			"/ships/fenerox/feneroxT4.structure",
+			"/ships/fenerox/feneroxT5.structure",
+			"/ships/fenerox/feneroxT6.structure",
+			"/ships/fenerox/feneroxT7.structure", 
+			"/ships/fenerox/feneroxT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/familiar"},
+		{ "op" : "add",
+		"path" : "/speciesShips/familiar",
+		"value" : [
+			"/ships/familiar/familiarT0.structure",
+			"/ships/familiar/familiarT1.structure",
+			"/ships/familiar/familiarT2.structure",
+			"/ships/familiar/familiarT3.structure",
+			"/ships/familiar/familiarT4.structure",
+			"/ships/familiar/familiarT5.structure",
+			"/ships/familiar/familiarT6.structure",
+			"/ships/familiar/familiarT7.structure", 
+			"/ships/familiar/familiarT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/orcana"},
+		{ "op" : "add",
+		"path" : "/speciesShips/orcana",
+		"value" : [
+			"/ships/orcana/orcanaT0.structure",
+			"/ships/orcana/orcanaT1.structure",
+			"/ships/orcana/orcanaT2.structure",
+			"/ships/orcana/orcanaT3.structure",
+			"/ships/orcana/orcanaT4.structure",
+			"/ships/orcana/orcanaT5.structure",
+			"/ships/orcana/orcanaT6.structure",
+			"/ships/orcana/orcanaT7.structure", 
+			"/ships/orcana/orcanaT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/felin"},
+		{ "op" : "add",
+		"path" : "/speciesShips/felin",
+		"value" : [
+			"/ships/felin/felinT0.structure",
+			"/ships/felin/felinT1.structure",
+			"/ships/felin/felinT2.structure",
+			"/ships/felin/felinT3.structure",
+			"/ships/felin/felinT4.structure",
+			"/ships/felin/felinT5.structure",
+			"/ships/felin/felinT6.structure",
+			"/ships/felin/felinT7.structure", 
+			"/ships/felin/felinT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/avali"},
+		{ "op" : "add",
+		"path" : "/speciesShips/avali",
+		"value" : [
+			"/ships/avali/avaliT0.structure",
+			"/ships/avali/avaliT1.structure",
+			"/ships/avali/avaliT2.structure",
+			"/ships/avali/avaliT3.structure",
+			"/ships/avali/avaliT4.structure",
+			"/ships/avali/avaliT5.structure",
+			"/ships/avali/avaliT6.structure",
+			"/ships/avali/avaliT7.structure", 
+			"/ships/avali/avaliT8.structure" 
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/lastree"},
+	  	{ "op" : "add",
+		"path" : "/speciesShips/lastree",
+		"value" : [
+		    "/ships/lastree/lastreeT0.structure",
+			"/ships/lastree/lastreeT1.structure",
+			"/ships/lastree/lastreeT2.structure",
+			"/ships/lastree/lastreeT3.structure",
+			"/ships/lastree/lastreeT4.structure",
+			"/ships/lastree/lastreeT5.structure",
+			"/ships/lastree/lastreeT6.structure",
+			"/ships/lastree/lastreeT7.structure",
+			"/ships/lastree/lastreeT8.structure"
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/avikan"},
+		{ "op" : "add",
+		"path" : "/speciesShips/avikan",
+		"value" : [
+			"/ships/avikan/avikanT0.structure",
+			"/ships/avikan/avikanT1.structure",
+			"/ships/avikan/avikanT2.structure",
+			"/ships/avikan/avikanT3.structure",
+			"/ships/avikan/avikanT4.structure",
+			"/ships/avikan/avikanT5.structure",
+			"/ships/avikan/avikanT6.structure",
+			"/ships/avikan/avikanT7.structure",
+			"/ships/avikan/avikanT8.structure"
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/trink"},
+		{ "op" : "add",
+		"path" : "/speciesShips/trink",
+		"value" : [
+			"/ships/trink/trinkT0.structure",
+			"/ships/trink/trinkT1.structure",
+			"/ships/trink/trinkT2.structure",
+			"/ships/trink/trinkT3.structure",
+			"/ships/trink/trinkT4.structure",
+			"/ships/trink/trinkT5.structure",
+			"/ships/trink/trinkT6.structure",
+			"/ships/trink/trinkT7.structure",
+			"/ships/trink/trinkT8.structure"
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/droden"},
+		{ "op" : "add",
+		"path" : "/speciesShips/droden",
+		"value" : [
+			"/ships/droden/drodenT0.structure",
+			"/ships/droden/drodenT1.structure",
+			"/ships/droden/drodenT2.structure",
+			"/ships/droden/drodenT3.structure",
+			"/ships/droden/drodenT4.structure",
+			"/ships/droden/drodenT5.structure",
+			"/ships/droden/drodenT6.structure",
+			"/ships/droden/drodenT7.structure",
+			"/ships/droden/drodenT8.structure"
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/aegi"},
+		{ "op" : "add",
+		"path" : "/speciesShips/aegi",
+		"value" : [
+			"/ships/aegi/aegiT0.structure",
+			"/ships/aegi/aegiT1.structure",
+			"/ships/aegi/aegiT2.structure",
+			"/ships/aegi/aegiT3.structure",
+			"/ships/aegi/aegiT4.structure",
+			"/ships/aegi/aegiT5.structure",
+			"/ships/aegi/aegiT6.structure",
+			"/ships/aegi/aegiT7.structure",
+			"/ships/aegi/aegiT8.structure"
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/akkimari"},
+		{ "op" : "add",
+		"path" : "/speciesShips/akkimari",
+		"value" : [
+			"/ships/akkimari/akkimariT0.structure",
+			"/ships/akkimari/akkimariT1.structure",
+			"/ships/akkimari/akkimariT2.structure",
+			"/ships/akkimari/akkimariT3.structure",
+			"/ships/akkimari/akkimariT4.structure",
+			"/ships/akkimari/akkimariT5.structure",
+			"/ships/akkimari/akkimariT6.structure",
+			"/ships/akkimari/akkimariT7.structure",
+			"/ships/akkimari/akkimariT8.structure"
+		]
+	}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/vampires"},
+		{ "op" : "add",
+		"path" : "/speciesShips/vampires",
+		"value" : [
+				"/ships/vampires/vampiresT0.structure",
+				"/ships/vampires/vampiresT1.structure",
+				"/ships/vampires/vampiresT2.structure",
+				"/ships/vampires/vampiresT3.structure",
+				"/ships/vampires/vampiresT4.structure",
+				"/ships/vampires/vampiresT5.structure",
+				"/ships/vampires/vampiresT6.structure",
+				"/ships/vampires/vampiresT7.structure",
+				"/ships/vampires/vampiresT8.structure"
+			]
+		}
+	]
+]

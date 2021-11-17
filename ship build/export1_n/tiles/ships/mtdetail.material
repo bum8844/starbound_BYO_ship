@@ -1,0 +1,22 @@
+{
+  "materialId" : 51251,
+  "materialName" : "mtdetail",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "mtdetail",
+  "description" : "Spaceship Detail Decoration",
+  "shortdescription" : "Spaceship Detail Decoration",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "drawBackground" : true,
+  "health" : 10,
+  "category": "decorations",
+  
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "mtdetail.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

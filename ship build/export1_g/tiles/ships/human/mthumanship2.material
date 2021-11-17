@@ -1,0 +1,22 @@
+{
+  "materialId" : 51264,
+  "materialName" : "mthumanship2",
+  "particleColor" : [194, 194, 194, 255],
+  "itemDrop" : "mthumanship2",
+  "shortdescription" : "Human Hull Section B",
+  "description" : "An alternate human hull section, frequently used in apex star cruisers",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "drawBackground" : true,
+  "health" : 10,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/ships/tile_connection.config",
+  "renderParameters" : {
+    "texture" : "mthumanship2.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 10
+  }
+}

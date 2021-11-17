@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "pks1contract", "count" : 1 }
+  ],
+  "output" : { "item" : "peacekeeperstore1" , "count" : 1 },
+  "groups" : [ "storecontractstation" ]
+}

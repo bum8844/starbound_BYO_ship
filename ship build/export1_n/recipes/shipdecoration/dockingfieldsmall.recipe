@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 5 },
+    { "item" : "wire", "count" : 5 },
+    { "item" : "siliconboard", "count": 2 }
+  ],
+  "output" : {
+    "item" : "dockingfieldsmall",
+    "count" : 1
+  },
+  "groups" : [ "shippartstation", "shipdecoration" ]
+}

@@ -1,0 +1,22 @@
+{
+  "materialId" : 51255,
+  "materialName" : "mtapexship2",
+  "particleColor" : [194, 194, 194, 255],
+  "itemDrop" : "mtapexship2",
+  "shortdescription" : "Apex Hull Section B",
+  "description" : "A little bit blocky, but acceptable in a few galaxies!",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "drawBackground" : true,
+  "health" : 10,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/ships/tile_connection.config",
+  "renderParameters" : {
+    "texture" : "mtapexship2.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 10
+  }
+}

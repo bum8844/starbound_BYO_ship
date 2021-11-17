@@ -1,0 +1,8 @@
+{
+  "itemName" : "pks2contract",
+  "rarity" : "Common",
+  "category" : "contract",
+  "inventoryIcon" : "pks2contract.png",
+  "description" : "This contract allows PeaceKeeper store entry into spacecraft.",
+  "shortdescription" : "Kestrel Agency Agreement"
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "mtbottomdeco",
+  "rarity" : "Common",
+  "inventoryIcon" : "mtbottomdecoicon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "Spaceship Bottom Decoration",
+  "shortdescription" : "Spaceship Bottom Decoration",
+  "materialId" : 51250
+}

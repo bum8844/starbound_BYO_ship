@@ -1,0 +1,8 @@
+{
+  "itemName" : "pknscontract",
+  "rarity" : "Common",
+  "category" : "contract",
+  "inventoryIcon" : "pknscontract.png",
+  "description" : "This contract allows PeaceKeeper store entry into spacecraft.",
+  "shortdescription" : "Neon Agency Agreement"
+}

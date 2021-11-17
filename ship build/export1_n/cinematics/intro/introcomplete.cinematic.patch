@@ -1,0 +1,27 @@
+[
+ {
+  "op": "replace",
+  "path": "/panels/48/drawables/0/image",
+  "value": "/cinematics/story/smallship/Capsuleship.png:<frame>"
+ },
+ {
+  "op": "replace",
+  "path": "/panels/47/drawables/0/image",
+  "value": "/cinematics/story/smallship/Capsuleship2.png:<frame>"
+ },
+ {
+  "op": "replace",
+  "path": "/panels/46/drawables/0/image",
+  "value": "/cinematics/story/smallship/Capsuleship3.png:<frame>"
+ },
+ {
+  "op": "replace",
+  "path": "/panels/45/drawables/0/image",
+  "value": "/cinematics/story/smallship/Capsuleship4.png:<frame>"
+ },
+ {
+  "op": "replace",
+  "path": "/panels/24/drawables/0/image",
+  "value": "/cinematics/story/smallship/Capsuleship.png:<frame>"
+ }
+]

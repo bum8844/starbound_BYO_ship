@@ -1,0 +1,22 @@
+{
+  "objectName" : "mtlandinggear1",
+  "rarity" : "Common",
+  "description" : "Landing Gear for a Spaceship",
+  "shortdescription" : "Large Landing Gear",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 10,
+  "printable" : false,
+
+  "inventoryIcon" : "mtlandinggear1icon.png",
+  "orientations" : [
+	{
+      "dualImage" : "mtlandinggear1.png:<color>.<frame>",
+      "imagePosition" : [-32,-32],
+      "frames" : 1,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "objectName" : "shippartstation",
+  "rarity" : "Rare",
+
+  "interactAction" : "OpenCraftingInterface",
+
+      "interactData" : {
+        "config" : "/interface/windowconfig/shipmaterialprinter.config",
+        "filter" : [ "shippartstation" ],
+
+        "paneLayoutOverride" : {
+          "windowtitle" : {
+        	"title" : " Ship In A Box Printer",
+     	    "subtitle" : " ^#b9b5b2;Print Pixels into usable ship materials",
+            "icon" : { "file" : "/interface/crafting/roboticcraftingtable.png" }
+            },
+	      "background" : {
+	        "type" : "background",
+  		    "fileHeader" : "/interface/crafting/craftingheader.png",
+  		    "fileBody" : "/interface/crafting/metalformerbody.png",
+   		    "fileFooter" : "/interface/crafting/craftingfooter.png"
+    		}
+           }
+         },
+
+  "description" : "This crafting station will make your spaceship look better!",
+  "shortdescription" : "Metal Forming Press",
+  "race" : "generic",
+  "category" : "crafting",
+  "printable" : false,
+  "price" : 200,
+
+  
+  "inventoryIcon" : "shippartstationicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "shippartstation.png:<color>.<frame>",
+      "imagePosition" : [-24, 0],
+      "frames" : 14,
+      "animationCycle" : 1.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

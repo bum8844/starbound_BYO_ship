@@ -1,0 +1,1444 @@
+{
+  "objectName" : "clotheshop",
+  "colonyTags" : ["outpost","commerce"],
+  "rarity" : "Legendary",
+  "category" : "other",
+  "price" : 4200,
+  "description" : "An intergalactic clothes store. There seems to be a lot of rare clothes there.",
+  "shortdescription" : "Special Clothe Shop",
+  "race" : "generic",
+  "printable" : false,
+  "lightColor" : [46, 66, 77],
+  "interactAction" : "OpenMerchantInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/merchant.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Special Clothe Shop",
+        "subtitle" : "^#b9b5b2;There are a lot of special clothes!"
+      }
+    },
+
+	"buyFactor" : 1.1,
+    "sellFactor" : 0.2,
+    "items" : [ 
+	  { "item" : "mercenaryhead" },
+	  { "item" : "mercenarychest" },
+	  { "item" : "mercenarylegs" },
+	  { "item" : "chefhead" },
+	  { "item" : "chefchest" },
+	  { "item" : "cheflegs" },
+	  { "item" : "bettyhead" },
+	  { "item" : "bettychest" },
+	  { "item" : "bettylegs" },
+	  { "item" : "jumpsuitchest" },
+	  { "item" : "jumpsuitlegs" },
+	  { "item" : "neohead" },
+	  { "item" : "neochest" },
+	  { "item" : "neoback" },
+	  { "item" : "neolegs" },
+	  { "item" : "protectoratechest" },
+	  { "item" : "protectorateshirtchest" },
+	  { "item" : "protectoratevestchest" },
+	  { "item" : "raggedprotectoratecape" },
+	  { "item" : "protectoratepants" },
+	  { "item" : "startrackchest" },
+	  { "item" : "startracklegs" },
+	  { "item" : "captainshead" },
+	  { "item" : "berethead" },
+	  { "item" : "t2helm1" },
+	  { "item" : "t2helm2" },
+	  { "item" : "industrialcrewhead" },
+	  { "item" : "mechpilothead" },
+	  { "item" : "spacebirdhead" },
+	  { "item" : "multicamhat" },
+	  { "item" : "fancaphead" },
+	  {
+        "item": {
+          "name": "peacekeeperhead"
+        },
+        "prerequisiteQuest": "bountyassignment"
+      },
+	  {
+        "item": {
+          "name": "peacekeeperchest"
+        },
+        "prerequisiteQuest": "bountyassignment"
+      },
+	  {
+        "item": {
+          "name": "peacekeeperpants"
+        },
+        "prerequisiteQuest": "bountyassignment"
+      },
+	  {
+        "item": {
+          "name": "captainnoblehead"
+        },
+        "prerequisiteQuest": "cultist_mission1"
+      },
+      {
+        "item": {
+          "name": "penguinhead"
+        },
+        "prerequisiteQuest": "penguin1"
+      },
+      {
+        "item": {
+          "name": "penguinchest"
+        },
+        "prerequisiteQuest": "penguin1"
+      },
+      {
+        "item": {
+          "name": "penguinlegs"
+        },
+        "prerequisiteQuest": "penguin1"
+      },
+	  {
+        "item": {
+          "name": "spacesuithead"
+        },
+        "prerequisiteQuest": "human_mission1"
+      },
+	  {
+        "item": {
+          "name": "spacesuitchest"
+        },
+        "prerequisiteQuest": "human_mission1"
+      },
+	  {
+        "item": {
+          "name": "spacesuitback"
+        },
+        "prerequisiteQuest": "human_mission1"
+      },
+	  {
+        "item": {
+          "name": "spacesuitlegs"
+      },
+        "prerequisiteQuest": "human_mission1"
+      },
+	  {
+        "item": {
+          "name": "minerhead"
+      },
+        "prerequisiteQuest": "human_mission1"
+      },
+	  {
+        "item": {
+          "name": "minerchest"
+      },
+        "prerequisiteQuest": "human_mission1"
+      },
+	  {
+        "item": {
+          "name": "mutantminerhead"
+      },
+        "prerequisiteQuest": "human_mission1"
+      },
+	  {
+        "item": {
+          "name": "mutantminerchest"
+      },
+        "prerequisiteQuest": "human_mission1"
+      },
+	  {
+        "item": {
+          "name": "soldierhead"
+      },
+        "prerequisiteQuest": "human_mission1"
+      },
+	  {
+        "item": {
+          "name": "soldierchest"
+      },
+        "prerequisiteQuest": "human_mission1"
+      },
+	  {
+        "item": {
+          "name": "soldierpants"
+      },
+        "prerequisiteQuest": "human_mission1"
+      },
+	  { 
+	    "item": {
+		  "name": "medichead" 
+	  },
+	    "prerequisiteQuest": "human_mission1"
+	  },
+	  {
+        "item": {
+          "name": "medicchest"
+      },
+        "prerequisiteQuest": "human_mission1"
+      },
+	  {
+        "item": {
+          "name": "medicback"
+      },
+        "prerequisiteQuest": "human_mission1"
+      },
+	  {
+        "item": {
+          "name": "mediclegs"
+      },
+        "prerequisiteQuest": "human_mission1"
+      },
+	  {
+        "item": {
+          "name": "silverarmorhead"
+      },
+        "prerequisiteQuest": "human_mission1"
+      },
+	  { 
+	    "item": {
+		  "name": "silverarmorchest" 
+	  },
+	    "prerequisiteQuest": "human_mission1"
+	  },
+	  {
+        "item": {
+          "name": "silverarmorlegs"
+      },
+        "prerequisiteQuest": "human_mission1"
+      },
+	  {
+        "item": {
+          "name": "trackerhead"
+      },
+        "prerequisiteQuest": "human_mission1"
+      },
+	  {
+        "item": {
+          "name": "trackerchest"
+      },
+        "prerequisiteQuest": "human_mission1"
+      },
+	  { 
+	    "item": {
+		  "name": "trackerlegs" 
+	  },
+	    "prerequisiteQuest": "human_mission1"
+	  },
+	  { 
+	    "item": {
+		  "name": "conceptchest" 
+	  },
+	    "prerequisiteQuest": "human_mission1"
+	  },
+	  { 
+	    "item": {
+		  "name": "hoodiechest" 
+	  },
+	    "prerequisiteQuest": "human_mission1"
+	  },
+	  { 
+	    "item": {
+		  "name": "conceptlegs" 
+	  },
+	    "prerequisiteQuest": "human_mission1"
+	  },
+	  { 
+	    "item": {
+		  "name": "coolchest" 
+	  },
+	    "prerequisiteQuest": "human_mission1"
+	  },
+	  { 
+	    "item": {
+		  "name": "coollegs" 
+	  },
+	    "prerequisiteQuest": "human_mission1"
+	  },
+	  { 
+	    "item": {
+		  "name": "jeans1legs" 
+	  },
+	    "prerequisiteQuest": "human_mission1"
+	  },
+	  { 
+	    "item": {
+		  "name": "jeans2legs" 
+	  },
+	    "prerequisiteQuest": "human_mission1"
+	  },
+	  { 
+	    "item": {
+		  "name": "sweatervestchest" 
+	  },
+	    "prerequisiteQuest": "human_mission1"
+	  },
+	  { 
+	    "item": {
+		  "name": "sweatervestlegs" 
+	  },
+	    "prerequisiteQuest": "human_mission1"
+	  },
+	  { 
+	    "item": {
+		  "name": "workoutchest" 
+	  },
+	    "prerequisiteQuest": "human_mission1"
+	  },
+	  { 
+	    "item": {
+		  "name": "workoutlegs" 
+	  },
+	    "prerequisiteQuest": "human_mission1"
+	  },
+	  { 
+	    "item": {
+		  "name": "jeans3legs" 
+	  },
+	    "prerequisiteQuest": "human_mission1"
+	  },
+	  {
+        "item": {
+          "name": "greenfingerhead"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+	  {
+        "item": {
+          "name": "predatoryhead"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "predatorchest"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "predatoryback"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "predatorypants"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "vicioushead"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "ethnichead"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "goathead"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "goldarmorhead"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "goldarmorchest"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "goldarmorlegs"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "voyagerhead"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "voyagerchest"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "voyagerlegs"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "floranfurnivourchest"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "floranfurnivourlegs"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "floranhunterchest"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "floranhunterlegs"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "floranleafchest"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "floranleaflegs"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "floranpeltchest"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "floranpeltlegs"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "floransurvivalistchest"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "floransurvivalistlegs"
+        },
+        "prerequisiteQuest": "floran_mission2"
+      },
+      {
+        "item": {
+          "name": "valoroushead"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "valorouschest"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "valorouspants"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "insidioushead"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "premierhead"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "premierchest"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "premierpants"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "pathfinderhead"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "pathfinderchest"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "pathfinderlegs"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "kimonochest"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "kimonolegs"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "monkchest"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "monklegs"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "traditionalchest"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "traditionallegs"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "traineechest"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "traineelegs"
+        },
+        "prerequisiteQuest": "hylotl_mission2"
+      },
+      {
+        "item": {
+          "name": "featherhead"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "fullbunnyhead"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "phoenixhat"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "valkyriehelm"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "tribalfeathersback"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "tribalwingsback"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "guardwingsback"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "falconwingsback"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "aviangodwingsback"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "bladedwingsback"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "piratehead"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "piratechest"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "pirateback"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "piratelegs"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "camohead"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "camochest"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "camolegs"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "avianadventurershirt"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "avianadventurerpants"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "aviancommonershirt"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "aviancommonerlegs"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "avianfancyshirt"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "avianfancyskirt"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "avianworkershirt"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "avianworkerpants"
+        },
+        "prerequisiteQuest": "avian_mission2"
+      },
+      {
+        "item": {
+          "name": "m1helmethead"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+	  {
+        "item": {
+          "name": "m1helmetmedichead"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+      {
+        "item": {
+          "name": "miniknoghead"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+	  {
+        "item": {
+          "name": "miniknogchest"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+      {
+        "item": {
+          "name": "miniknogpants"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+	  {
+        "item": {
+          "name": "visorhead"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+      {
+        "item": {
+          "name": "scientisthead"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+	  {
+        "item": {
+          "name": "scientistchest"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+      {
+        "item": {
+          "name": "scientistlegs"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+      {
+        "item": {
+          "name": "bonusarmorhead"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+	  {
+        "item": {
+          "name": "bonusarmorchest"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+      {
+        "item": {
+          "name": "bonusarmorlegs"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+      {
+        "item": {
+          "name": "apexcommanderjacket"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+      {
+        "item": {
+          "name": "apexcommanderpants"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+	  {
+        "item": {
+          "name": "apexnavyjacket"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+      {
+        "item": {
+          "name": "apexnavypants"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+      {
+        "item": {
+          "name": "apexofficerjacket"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+      {
+        "item": {
+          "name": "apexofficerpants"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+	  {
+        "item": {
+          "name": "apexspecialistjacket"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+      {
+        "item": {
+          "name": "apexspecialistpants"
+        },
+        "prerequisiteQuest": "apex_mission2"
+      },
+      {
+        "item": {
+          "name": "wizardhead"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "wizardchest"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "wizardlegs"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "wizardback"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "executionershead"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "executionerschest"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "jesterhead"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "glitchroyalhead"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "plaguedoctorhead"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "plaguemasterhead"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "skullmaskhead"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "plainhoodhead"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "phrygiancaphead"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "herocaphead"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "gladiatorhead"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "luchadorhead"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "ironavianhelmethead"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "soulguise"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "plumeknighthead"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "knighthead"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "stargazer"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "craftsmenchest"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "craftsmenlegs"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "merchantchest"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "merchantlegs"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "noblechest"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "noblelegs"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "peasantchest"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+      {
+        "item": {
+          "name": "peasantlegs"
+        },
+        "prerequisiteQuest": "glitch_mission2"
+      },
+	  {
+        "item": {
+          "name": "novakidfancychest"
+        },
+        "prerequisiteQuest": "destroyruin"
+      },
+	  {
+        "item": {
+          "name": "novakidfancypants"
+        },
+        "prerequisiteQuest": "destroyruin"
+      },
+	  {
+        "item": {
+          "name": "novakidjacket"
+        },
+        "prerequisiteQuest": "destroyruin"
+      },
+	  {
+        "item": {
+          "name": "novakidjacketpants"
+        },
+        "prerequisiteQuest": "destroyruin"
+      }, 
+	  {
+        "item": {
+          "name": "novakidsuspenders"
+        },
+        "prerequisiteQuest": "destroyruin"
+      },
+	  {
+        "item": {
+          "name": "novakidsuspenderspants"
+        },
+        "prerequisiteQuest": "destroyruin"
+      },
+	  {
+        "item": {
+          "name": "novakidwaistcoat"
+        },
+        "prerequisiteQuest": "destroyruin"
+      },
+	  {
+        "item": {
+          "name": "novakidblackpants"
+        },
+        "prerequisiteQuest": "destroyruin"
+      },
+      {
+        "item": {
+          "name": "armoredcultisthead"
+        },
+        "prerequisiteQuest": "cultist_mission1"
+      },
+	  {
+        "item": {
+          "name": "armoredcultistchest"
+        },
+        "prerequisiteQuest": "cultist_mission1"
+      },
+	  {
+        "item": {
+          "name": "armoredcultistback"
+        },
+        "prerequisiteQuest": "cultist_mission1"
+      },
+	  {
+        "item": {
+          "name": "armoredcultistlegs"
+        },
+        "prerequisiteQuest": "cultist_mission1"
+      },
+	  {
+        "item": {
+          "name": "cultisthead"
+        },
+        "prerequisiteQuest": "cultist_mission1"
+      },
+	  {
+        "item": {
+          "name": "cultistchest"
+        },
+        "prerequisiteQuest": "cultist_mission1"
+      },
+	  {
+        "item": {
+          "name": "cultistlegs"
+        },
+        "prerequisiteQuest": "cultist_mission1"
+      },
+	  { "item" : "hikerchest" },
+	  { "item" : "hikerback" },
+	  { "item" : "hikerlegs" },
+	  { "item" : "evilmushroomhead" },
+	  { "item" : "mushroomhead" },
+	  { "item" : "shroomdisguisehead" },
+	  { "item" : "shroomhead" },
+	  { "item" : "shroomhead2" },
+	  { "item" : "shroomhead3" },
+	  { "item" : "shroomhead4" },
+	  { "item" : "wildfungushead" },
+	  { "item" : "wildfunguschest" },
+	  { "item" : "raggedcapeback" },
+	  { "item" : "wildfunguspants" },
+	  { "item" : "cupidshead" },
+	  { "item" : "cupidschest" },
+	  { "item" : "cupidsback" },
+	  { "item" : "cupidslegs" },
+	  { "item" : "fairyhead" },
+	  { "item" : "fairychest" },
+	  { "item" : "fairyback" },
+	  { "item" : "butterflywingsback" },
+	  { "item" : "fairylegs" },
+	  { "item" : "dress1chest" },
+	  { "item" : "dress1legs" },
+	  { "item" : "wedding1chest" },
+	  { "item" : "wedding1legs" },
+	  { "item" : "wedding2head" },
+	  { "item" : "wedding2chest" },
+	  { "item" : "wedding2legs" },
+	  { "item" : "buzzyhead" },
+	  { "item" : "buzzychest" },
+	  { "item" : "buzzyback" },
+	  { "item" : "buzzylegs" },
+	  { "item" : "floweryhead" },
+	  { "item" : "flowerychest" },
+	  { "item" : "floweryback" },
+	  { "item" : "flowerylegs" },
+	  { "item" : "swamphat" },
+	  { "item" : "lagoonhead" },
+	  { "item" : "lagoonchest" },
+	  { "item" : "lagoonpants" },
+	  { "item" : "frogghead" },
+	  { "item" : "froggchest" },
+	  { "item" : "frogglegs" },
+	  { "item" : "froggmerchanthead" },
+	  { "item" : "froggmerchantchest" },
+	  { "item" : "froggmerchantlegs" },
+	  { "item" : "bearhead" },
+	  { "item" : "teddyhead" },
+	  { "item" : "bunnyhead" },
+	  { "item" : "dinosaurhead" },
+	  { "item" : "turtleshellback" },
+	  { "item" : "doghathead" },
+	  { "item" : "uncathat" },
+	  { "item" : "kittyhead" },
+	  { "item" : "kathoodhead" },
+	  { "item" : "horsehead" },
+	  { "item" : "unicornhead" },
+	  { "item" : "sharkhead" },
+	  { "item" : "sheephead" },
+	  { "item" : "tigerhead" },
+	  { "item" : "beehivehead" },
+	  { "item" : "scalpionhead" },
+	  { "item" : "berryhead" },
+	  { "item" : "strawberryhead" },
+	  { "item" : "bananahead" },
+	  { "item" : "pharaohhead" },
+	  { "item" : "pyramidhead" },
+	  { "item" : "bedouinhead" },
+	  { "item" : "bedouinchest" },
+	  { "item" : "bedouinlegs" },
+	  { "item" : "hunterchest" },
+	  { "item" : "hunterback" },
+	  { "item" : "quiverback" },
+	  { "item" : "spearback" },
+	  { "item" : "hunterlegs" },
+	  { "item" : "sabertoothhelm" },
+	  { "item" : "woollychest" },
+	  { "item" : "woollyback" },
+	  { "item" : "tigertailback" },
+	  { "item" : "woollylegs" },
+	  { "item" : "apexskullhead" },
+	  { "item" : "avianskullhead" },
+	  { "item" : "floranskullhead" },
+	  { "item" : "humanskullhead" },
+	  { "item" : "hylotlskullhead" },
+	  { "item" : "glitchskullhead" },
+	  { "item" : "jeffback" },
+	  { "item" : "bonewingsback" },
+	  { "item" : "dreadfulskullhead" },
+	  { "item" : "alienskullhead" },
+	  { "item" : "reedhead" },
+	  { "item" : "rainbowhoodhead" },
+	  { "item" : "rainbowcapeback" },
+	  { "item" : "rainbowwoodhead" },
+	  { "item" : "rainbowwoodchest" },
+	  { "item" : "rainbowwoodlegs" },
+	  { "item" : "rockhat" },
+	  { "item" : "rockhead" },
+	  { "item" : "rockchest" },
+	  { "item" : "rocklegs" },
+	  { "item" : "tarblob" },
+	  { "item" : "tarhead" },
+	  { "item" : "tarchest" },
+	  { "item" : "tarlegs" },
+	  { "item" : "cowboyhead" },
+	  { "item" : "cowboychest" },
+	  { "item" : "cowboylegs" },
+	  { "item" : "sunglasses1head" },
+	  { "item" : "coolshadeshead" },
+	  { "item" : "thinkingcaphead" },
+	  { "item" : "sensorysquidhathead" },
+	  { "item" : "deepdiverhead" },
+	  { "item" : "divingmaskhead" },
+	  { "item" : "snorkelhead" },
+	  { "item" : "oxygentank" },
+	  { "item" : "tricornhat" },
+	  { "item" : "buccaneerhead" },
+	  { "item" : "buccaneerchest" },
+	  { "item" : "buccaneerlegs" },
+	  { "item" : "hawaiianhead" },
+	  { "item" : "hawaiianchest" },
+	  { "item" : "hawaiianlegs" },
+	  { "item" : "summerchest" },
+	  { "item" : "summerpants" },
+	  { "item" : "gasmaskhead" },
+	  { "item" : "faceleechhead" },
+	  { "item" : "hazmathead" },
+	  { "item" : "hazmatchest" },
+	  { "item" : "hazmatback" },
+	  { "item" : "hazmatlegs" },
+	  { "item" : "headbandhead" },
+	  { "item" : "toughchest" },
+	  { "item" : "toughlegs" },
+	  { "item" : "mutanthead" },
+	  { "item" : "mutantchest" },
+	  { "item" : "mutantback" },
+	  { "item" : "toxicflowerback" },
+	  { "item" : "toxicwasteback" },
+	  { "item" : "mutantpants" },
+	  { "item" : "dangerbarrelback" },
+	  { "item" : "pinkeyeparasitehead" },
+	  { "item" : "causticstaghead" },
+	  { "item" : "symbiotehead" },
+	  { "item" : "beachcreeperhead" },
+	  { "item" : "beachcreeperchest" },
+	  { "item" : "beachcreeperlegs" },
+	  { "item" : "eyehead" },
+	  { "item" : "eyehead2" },
+	  { "item" : "eyeback" },
+	  { "item" : "batwingsback" },
+	  { "item" : "paperwingsback" },
+  	  { "item" : "eyeballhead" },
+	  { "item" : "eyeballchest" },
+	  { "item" : "eyeballback" },
+	  { "item" : "eyeballlegs" },
+	  { "item" : "anatomyapexhead" },
+	  { "item" : "anatomyavianhead" },
+	  { "item" : "anatomyhumanhead" },
+	  { "item" : "anatomyhylotlhead" },
+	  { "item" : "anatomychest" },
+	  { "item" : "anatomylegs" },
+	  { "item" : "slimehead" },
+	  { "item" : "slimechest" },
+	  { "item" : "slimelegs" },
+	  { "item" : "snowinfantryhead" },
+	  { "item" : "snowinfantrychest" },
+	  { "item" : "survivalgearback" },
+	  { "item" : "snowinfantrypants" },
+	  { "item" : "icecubehead" },
+	  { "item" : "icearmorhead" },
+	  { "item" : "icearmorchest" },
+	  { "item" : "icearmorlegs" },
+	  { "item" : "prismhead" },
+	  { "item" : "prismchest" },
+	  { "item" : "crystalbackpackback" },
+	  { "item" : "prismlegs" },
+	  { "item" : "cyclopsyetihead" },
+	  { "item" : "cyclopsyetichest" },
+	  { "item" : "cyclopsyetilegs" },
+	  { "item" : "lighthelmhead" },
+	  { "item" : "bioluminhead" },
+	  { "item" : "bioluminchest" },
+	  { "item" : "bioluminlegs" },
+	  { "item" : "frostcrownhead" },
+	  { "item" : "alpacahead" },
+	  { "item" : "alpacachest" },
+	  { "item" : "alpacalegs" },
+	  { "item" : "alpacavillagerhead" },
+	  { "item" : "alpacavillagerchest" },
+	  { "item" : "alpacavillagerlegs" },
+	  { "item" : "alpacaguardhead" },
+	  { "item" : "alpacaguardchest" },
+	  { "item" : "alpacaguardlegs" },
+	  { "item" : "vikinghead" },
+	  { "item" : "coolfezhead" },
+	  { "item" : "ladyhathead" },
+	  { "item" : "fedorahead" },
+	  { "item" : "floppyhathead" },
+	  { "item" : "venetianmaskhead" },
+	  { "item" : "wighead" },
+	  { "item" : "hobohead" },
+	  { "item" : "ushankahead" },
+	  { "item" : "winterscarfhead" },
+	  { "item" : "glasses2head" },
+	  { "item" : "electroniumhat" },
+	  { "item" : "fancyhead" },
+	  { "item" : "tophathead" },
+	  { "item" : "hottophathead" },
+	  { "item" : "clocktophathead" },
+	  { "item" : "toptophathead" },
+	  { "item" : "moneybagshead" },
+	  { "item" : "moneybagschest" },
+	  { "item" : "moneybagsback" },
+	  { "item" : "moneybagspants" },
+	  { "item" : "smartchest" },
+	  { "item" : "smartpants" },
+	  { "item" : "pipehat" },
+	  { "item" : "steampunkhead" },
+	  { "item" : "neckruffle" },
+	  { "item" : "boilerback" },
+	  { "item" : "steamgreylegs" },
+	  { "item" : "copperarmorhead" },
+	  { "item" : "copperarmorchest" },
+	  { "item" : "copperarmorpants" },
+	  { "item" : "pilothead" },
+	  { "item" : "pilotchest" },
+	  { "item" : "pilotback" },
+	  { "item" : "parachutepackback" },
+	  { "item" : "pilotlegs" },
+	  { "item" : "hotholidayhead" },
+	  { "item" : "hotholidaychest" },
+	  { "item" : "hotholidaypants" },
+	  { "item" : "mrclaushead" },
+	  { "item" : "mrclauschest" },
+	  { "item" : "mrclausback" },
+	  { "item" : "mrclauspants" },
+	  { "item" : "larvahead" },
+	  { "item" : "larvachest" },
+	  { "item" : "larvalegs" },
+	  { "item" : "darkhead" },
+	  { "item" : "darkchest" },
+	  { "item" : "darklegs" },
+	  { "item" : "caretakerhead" },
+	  { "item" : "caretakerchest" },
+	  { "item" : "caretakerlegs" },
+	  { "item" : "darkdisguisehead" },
+	  { "item" : "darkdisguisechest" },
+	  { "item" : "darkcapeback" },
+	  { "item" : "darkdisguiselegs" },
+	  { "item" : "larvahead" },
+	  { "item" : "larvachest" },
+	  { "item" : "larvalegs" },
+	  { "item" : "rustyskul" },
+	  { "item" : "deadbeathelmhead" },
+	  { "item" : "deadbeathornhelmhead" },
+	  { "item" : "deadbeathornmaskhead" },
+	  { "item" : "deadbeathornshead" },
+	  { "item" : "deadbeatmaskhead" },
+	  { "item" : "deadbeatnerdhead" },
+	  { "item" : "deadbeatstrapschest" },
+	  { "item" : "deadbeatstrapslegs" },
+	  { "item" : "deadbeatspandexchest" },
+	  { "item" : "deadbeatspandexlegs" },
+	  { "item" : "deadbeatleatherchest" },
+	  { "item" : "deadbeatleatherlegs" },
+	  { "item" : "geodehead" },
+	  { "item" : "geodechest" },
+	  { "item" : "geodelegs" },
+	  { "item" : "devhead" },
+	  { "item" : "safetyhelmethead" },
+	  { "item" : "foundrygoggleshead" },
+	  { "item" : "foundryhardhathead" },
+	  { "item" : "weldershelmethead" },
+	  { "item" : "foundrychest" },
+	  { "item" : "foundryguardchest" },
+	  { "item" : "foundryback" },
+	  { "item" : "foundryforemanback" },
+	  { "item" : "foundrylegs" },
+	  { "item" : "firelordhead" },
+	  { "item" : "firelordchest" },
+	  { "item" : "firelordback" },
+	  { "item" : "firelordlegs" },
+	  { "item" : "demonhornshead" },
+	  { "item" : "protectorateflowerhead" },
+	  { "item" : "strapchest" },
+	  { "item" : "straplegs" },
+	  { "item" : "pixelherodemochest" },
+	  { "item" : "pixelherodemolegs" },
+	  { "item" : "barrelhead" },
+	  { "item" : "barrelchest" },
+	  { "item" : "glasses5head" },
+	  { "item" : "glasses4head" },
+	  { "item" : "glasses3eyes" },
+	  { "item" : "grouchohead" },
+	  { "item" : "gagnosehead" },
+	  { "item" : "bevhead" },
+	  { "item" : "mughathead" },
+	  { "item" : "sombrerohead" },
+	  { "item" : "buildinghathead" },
+	  { "item" : "househathead" },
+	  { "item" : "gnomecaphead" },
+	  { "item" : "gnomehead" },
+	  { "item" : "tvhelmethead" },
+	  { "item" : "monitorhead" },
+	  { "item" : "meercaphead" },
+	  { "item" : "afrowighead" },
+	  { "item" : "carrothathead" },
+	  { "item" : "corobocklehead" },
+	  { "item" : "cardboardhead" },
+	  { "item" : "boxmanhathead" }
+    ]
+  },
+
+  "animation" : "clotheshop.animation",
+  "inventoryIcon" : "clotheshopicon.png",
+  "orientations" : [
+    {
+      "image" : "clotheshopleft.png:<color>.<frame>",
+      "flipImages" : true,
+	  "direction" : "left",
+      "animationParts" : {
+        "bg" : "clotheshopleft.png",
+        "fg" : "clotheshopleftlit.png"
+      },
+      "animationPosition" : [-64, 0],
+      "lightPosition" : [-1, 2],
+      "imagePosition" : [-64, 0],
+      "spaceScan" : 0.1,
+      "interactiveSpaces": [
+        [-5, 1], [-4, 1], [-3, 1], [-2, 1], [-1, 1], [0, 1],
+        [-5, 2], [-4, 2], [-3, 2], [-2, 2], [-1, 2],
+        [-4, 3], [-3, 3], [-2, 3],
+        [-4, 4], [-3, 4], [-2, 4],
+        [-6, 5], [-5, 5], [-4, 5], [-3, 5], [-2, 5], [-1, 5], [0, 5],
+        [-6, 6], [-5, 6], [-4, 6], [-3, 6], [-2, 6], [-1, 6], [0, 6]
+      ],
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "clotheshop.png:<color>.<frame>",
+      "direction" : "right",
+      "animationParts" : {
+        "bg" : "clotheshop.png",
+        "fg" : "clotheshoplit.png"
+      },
+      "animationPosition" : [-64, 0],
+	  "lightPosition" : [0, 2],
+      "imagePosition" : [-64, 0],
+      "spaceScan" : 0.1,
+      "interactiveSpaces": [
+        [6, 1], [5, 1], [4, 1], [3, 1], [2, 1], [1, 1], [0, 1], [-1, 1],
+        [4, 2], [3, 2], [2, 2], [1, 2], [0, 2],
+        [3, 3], [2, 3], [1, 3],
+        [3, 4], [2, 4], [1, 4],
+        [5, 5], [4, 5], [3, 5], [2, 5], [1, 5], [0, 5], [-1, 5],
+        [5, 6], [4, 6], [3, 6], [2, 6], [1, 6], [0, 6], [-1, 6]
+      ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

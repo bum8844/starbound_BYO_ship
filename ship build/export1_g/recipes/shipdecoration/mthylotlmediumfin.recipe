@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "mthylotlmediumfin",
+    "count" : 1
+  },
+  "groups" : [ "shippartstation", "shipdecoration" ]
+}

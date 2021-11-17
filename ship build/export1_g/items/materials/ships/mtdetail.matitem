@@ -1,0 +1,9 @@
+{
+  "itemName" : "mtdetail",
+  "rarity" : "Common",
+  "inventoryIcon" : "mtdetailicon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "Spaceship Details",
+  "shortdescription" : "Spaceship Details",
+  "materialId" : 51251
+}

@@ -1,0 +1,30 @@
+{
+  "objectName" : "mtglitchtower2",
+  "rarity" : "Common",
+  "description" : "An impressive tower!",
+  "shortdescription" : "Glitch Tower Beta",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 10,
+  "printable" : false,
+
+  "inventoryIcon" : "mtglitchtower2icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "mtglitchtower2.png:<color>.<frame>",
+      "imagePosition" : [-57,-16],
+      "frames" : 1,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+	{
+      "dualImage" : "mtglitchtower2bottom.png:<color>.<frame>",
+      "imagePosition" : [-57,-19],
+      "frames" : 1,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "mttopdeco",
+  "rarity" : "Common",
+  "inventoryIcon" : "mttopdecoicon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "Spaceship Top Decoration",
+  "shortdescription" : "Spaceship Top Decoration",
+  "materialId" : 51252
+}

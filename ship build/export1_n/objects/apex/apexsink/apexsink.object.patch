@@ -1,0 +1,42 @@
+[
+ {
+  "op": "add",
+  "path": "/scripts",
+  "value": [
+   "/scripts/npcToyObject.lua"
+  ]
+ },
+ {
+  "op": "add",
+  "path": "/npcToy",
+  "value": {
+   "influence": [
+    "sink",
+    "sinkComplete"
+   ],
+   "defaultReactions": {
+    "sink": [
+     [
+      1,
+      "warmhands"
+     ]
+    ],
+    "sinkComplete": [
+     [
+      1,
+      "smile"
+     ]
+    ]
+   },
+   "preciseStandPositionLeft": [
+    -1,
+    0
+   ],
+   "preciseStandPositionRight": [
+    1,
+    0
+   ],
+   "maxNpcs": 1
+  }
+ }
+]

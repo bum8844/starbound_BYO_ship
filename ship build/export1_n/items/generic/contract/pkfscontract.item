@@ -1,0 +1,8 @@
+{
+  "itemName" : "pkfscontract",
+  "rarity" : "Common",
+  "category" : "contract",
+  "inventoryIcon" : "pkfscontract.png",
+  "description" : "This contract allows PeaceKeeper store entry into spacecraft.",
+  "shortdescription" : "Furniture Agency Agreement"
+}

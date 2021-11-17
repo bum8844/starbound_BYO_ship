@@ -1,0 +1,9 @@
+{
+  "itemName" : "mtavianship2",
+  "rarity" : "Common",
+  "inventoryIcon" : "mtavianship2icon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "QUACK QUACK QUACK!",
+  "shortdescription" : "Avian Hull Section B",
+  "materialId" : 51257
+}

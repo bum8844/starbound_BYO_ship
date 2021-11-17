@@ -1,0 +1,22 @@
+{
+  "materialId" : 51250,
+  "materialName" : "mtbottomdeco",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "mtbottomdeco",
+  "description" : "Spaceship Bottom Decoration",
+  "shortdescription" : "Spaceship Bottom Decoration",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "drawBackground" : true,
+  "health" : 10,
+  "category": "decorations",
+  
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "mtbottomdeco.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

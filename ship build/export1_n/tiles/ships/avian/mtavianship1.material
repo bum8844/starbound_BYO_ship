@@ -1,0 +1,22 @@
+{
+  "materialId" : 51256,
+  "materialName" : "mtavianship1",
+  "particleColor" : [194, 194, 194, 255],
+  "itemDrop" : "mtavianship1",
+  "shortdescription" : "Avian Hull Section A",
+  "description" : "Flap your wings like an overweight bird, and fly!",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "drawBackground" : true,
+  "health" : 10,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/ships/tile_connection.config",
+  "renderParameters" : {
+    "texture" : "mtavianship1.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 10
+  }
+}

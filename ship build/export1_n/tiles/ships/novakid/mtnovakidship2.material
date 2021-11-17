@@ -1,0 +1,22 @@
+{
+  "materialId" : 51268,
+  "materialName" : "mtnovakidship2",
+  "particleColor" : [194, 194, 194, 255],
+  "itemDrop" : "mtnovakidship2",
+  "shortdescription" : "Novakid Hull Section B",
+  "description" : "An alternate novakid hull section, frequently used in apex star cruisers",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "drawBackground" : true,
+  "health" : 10,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/ships/tile_connection.config",
+  "renderParameters" : {
+    "texture" : "mtnovakidship2.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 10
+  }
+}

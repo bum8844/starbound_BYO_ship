@@ -1,0 +1,50 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "shopState" : {
+        "default" : "loop",
+        "states" : {
+          "loop" : {
+            "frames" : 22,
+            "cycle" : 6.4,
+            "mode" : "loop"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "bg" : {
+        "properties" : {
+          "centered" : false
+        },
+
+        "partStates" : {
+          "shopState" : {
+            "loop" : {
+              "properties" : {
+                "image" : "<partImage>:shop.<frame>",
+                "fullbright" : true
+			  }
+            }
+          }
+        }
+      },
+      "fg" : {
+        "properties" : {
+          "centered" : false,
+          "zLevel" : 1
+		},
+        "partStates" : {
+          "shopState" : {
+            "loop" : {
+              "properties" : {
+                "image" : "<partImage>:shop.<frame>"
+			  }
+            }
+          }
+        }
+      }
+	}
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "materialId" : 51252,
+  "materialName" : "mttopdeco",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "mttopdeco",
+  "description" : "Spaceship Top Decoration",
+  "shortdescription" : "Spaceship Top Decoration",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "drawBackground" : true,
+  "health" : 10,
+  "category": "decorations",
+  
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "mttopdeco.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

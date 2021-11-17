@@ -1,0 +1,101 @@
+[
+ {
+  "op": "add",
+  "path": "/colonyTags",
+  "value": [
+   "mechanical",
+   "commerce"
+  ]
+ },
+ {
+	"op":"add",
+	"path":"/printable",
+	"value":true
+ },
+ {
+  "op": "add",
+  "path": "/orientations/0/direction",
+  "value": "right"
+ },
+ {
+  "op": "add",
+  "path": "/orientations/1",
+  "value": {
+   "image": "protectoratelobbyvending_left.png:<color>",
+   "imagePosition": [
+    -14,
+    0
+   ],
+   "frames": 1,
+   "animationCycle": 0.5,
+   "spaceScan": 0.1,
+   "anchors": [
+    "bottom"
+   ],
+   "direction": "left"
+  }
+ },
+  {
+  "op": "add",
+  "path": "/scripts",
+  "value": [
+   "/scripts/npcToyObject.lua"
+  ]
+ },
+ {
+  "op": "add",
+  "path": "/scriptDelta",
+  "value": 60
+ },
+ {
+  "op": "add",
+  "path": "/npcToy",
+  "value": {
+   "influence": [
+    "vendingmachineActivate",
+    "vendingmachineCollect",
+    "vendingmachineConsume",
+    "vendingmachineComplete"
+   ],
+   "defaultReactions": {
+    "vendingmachineActivate": [
+     [
+      1,
+      "pressbutton"
+     ]
+    ],
+    "vendingmachineCollect": [
+     [
+      1,
+      "crouchcollect"
+     ]
+    ],
+    "vendingmachineConsume": [
+     [
+      1,
+      "drink"
+     ]
+    ],
+    "vendingmachineComplete": [
+     [
+      1,
+      "smile"
+     ],
+     [
+      0.1,
+      "vomit"
+     ]
+    ]
+   },
+   "preciseStandPositionLeft": [
+    -2,
+    1
+   ],
+   "preciseStandPositionRight": [
+    2,
+    1
+   ],
+   "maxNpcs": 1
+  }
+ }
+]

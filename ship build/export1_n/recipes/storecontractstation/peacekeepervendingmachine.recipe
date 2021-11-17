@@ -1,0 +1,10 @@
+{
+  "currencyInputs" : {
+    "money" : 1500
+  },
+  "input" : [
+    { "item" : "vmucontract", "count" : 1 }
+  ],
+  "output" : { "item" : "peacekeepervendingmachine" , "count" : 1 },
+  "groups" : [ "storecontractstation" ]
+}

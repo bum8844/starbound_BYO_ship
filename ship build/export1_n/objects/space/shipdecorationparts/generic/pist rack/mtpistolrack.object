@@ -1,0 +1,22 @@
+{
+  "objectName" : "mtpistolrack",
+  "rarity" : "Common",
+  "description" : "Pistol Rack",
+  "shortdescription" : "Pistol Rack",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 10,
+  "printable" : false,
+
+  "inventoryIcon" : "mtpistolrackicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "mtpistolrack.png:<color>.<frame>",
+      "imagePosition" : [-13,-24],
+      "frames" : 1,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

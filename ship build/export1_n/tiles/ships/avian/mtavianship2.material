@@ -1,0 +1,22 @@
+{
+  "materialId" : 51257,
+  "materialName" : "mtavianship2",
+  "particleColor" : [194, 194, 194, 255],
+  "itemDrop" : "mtavianship2",
+  "shortdescription" : "Avian Hull Section B",
+  "description" : "QUACK QUACK QUACK!",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "drawBackground" : true,
+  "health" : 10,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/ships/tile_connection.config",
+  "renderParameters" : {
+    "texture" : "mtavianship2.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 10
+  }
+}

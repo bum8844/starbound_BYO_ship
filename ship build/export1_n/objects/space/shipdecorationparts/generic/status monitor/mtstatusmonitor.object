@@ -1,0 +1,23 @@
+{
+	"objectName" : "mtstatusmonitor",
+	"rarity" : "Common",
+	"description" : "A Monitor to display status of wired systems.",
+	"shortdescription" : "Status Monitor",
+	"race" : "generic",
+	"category" : "tools",
+	"printable" : false,
+	"price" : 200,
+
+	"inventoryIcon" : "mtstatusmonitoricon.png",
+	"orientations" : [
+		{
+			"imageLayers" : [ { "image": "mtstatusmonitorgreen.png:<color>.<frame>", "fullbright": true }, { "image": "mtstatusmonitorgreenlit.png:<color>.<frame>" } ],
+			"imagePosition" : [-16, -8],
+			"frames" : 8,
+			"animationCycle" : 0.5,
+			"spaceScan" : 0.1,
+			"direction" : "left",
+			"anchors" : [ "background" ]
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "mthylotlshipcomms",
+    "count" : 1
+  },
+  "groups" : [ "shippartstation", "shipwired" ]
+}

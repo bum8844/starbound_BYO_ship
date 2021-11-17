@@ -1,0 +1,9 @@
+{
+  "itemName" : "mtfloranship1",
+  "rarity" : "Common",
+  "inventoryIcon" : "mtfloranship1icon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "Whoever before me wrote this description put 'An Floran' *smack*",
+  "shortdescription" : "Floran Hull Section A",
+  "materialId" : 51258
+}
