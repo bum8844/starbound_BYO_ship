@@ -1,4 +1,3 @@
 [
-	{"op":"add","path" : "/price", "value" : 450},
-	{"op":"add","path" : "/shortDescription","value" : "peglacifuelhatch"}
+	{"op":"add","path" : "/price", "value" : 450}
 ]
