@@ -1,5 +1,124 @@
 [
 	[
+		{ "op" : "test" ,"path" : "/speciesShips/tirastrolls"},
+		{ "op" : "add",
+		"path" : "/speciesShips/tirastrolls",
+		"value" : [
+				"/ships/tirastrolls/tirastrollsT0.structure",
+				"/ships/tirastrolls/tirastrollsT1.structure",
+				"/ships/tirastrolls/tirastrollsT2.structure",
+				"/ships/tirastrolls/tirastrollsT3.structure",
+				"/ships/tirastrolls/tirastrollsT4.structure",
+				"/ships/tirastrolls/tirastrollsT5.structure",
+				"/ships/tirastrolls/tirastrollsT6.structure",
+				"/ships/tirastrolls/tirastrollsT7.structure", 
+				"/ships/tirastrolls/tirastrollsT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/vashknaarenbiped"},
+		{ "op" : "add",
+		"path" : "/speciesShips/vashknaarenbiped",
+		"value" : [
+				"/ships/vashknaaren/vashknaarenT0.structure",
+				"/ships/vashknaaren/vashknaarenT1.structure",
+				"/ships/vashknaaren/vashknaarenT2.structure",
+				"/ships/vashknaaren/vashknaarenT3.structure",
+				"/ships/vashknaaren/vashknaarenT4.structure",
+				"/ships/vashknaaren/vashknaarenT5.structure",
+				"/ships/vashknaaren/vashknaarenT6.structure",
+				"/ships/vashknaaren/vashknaarenT7.structure", 
+				"/ships/vashknaaren/vashknaarenT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/vashknaaren"},
+		{ "op" : "add",
+		"path" : "/speciesShips/vashknaaren",
+		"value" : [
+				"/ships/vashknaaren/vashknaarenT0.structure",
+				"/ships/vashknaaren/vashknaarenT1.structure",
+				"/ships/vashknaaren/vashknaarenT2.structure",
+				"/ships/vashknaaren/vashknaarenT3.structure",
+				"/ships/vashknaaren/vashknaarenT4.structure",
+				"/ships/vashknaaren/vashknaarenT5.structure",
+				"/ships/vashknaaren/vashknaarenT6.structure",
+				"/ships/vashknaaren/vashknaarenT7.structure", 
+				"/ships/vashknaaren/vashknaarenT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/blattra"},
+		{ "op" : "add",
+		"path" : "/speciesShips/blattra",
+		"value" : [
+				"/ships/blattra/blattraT0.structure",
+				"/ships/blattra/blattraT1.structure",
+				"/ships/blattra/blattraT2.structure",
+				"/ships/blattra/blattraT3.structure",
+				"/ships/blattra/blattraT4.structure",
+				"/ships/blattra/blattraT5.structure",
+				"/ships/blattra/blattraT6.structure",
+				"/ships/blattra/blattraT7.structure", 
+				"/ships/blattra/blattraT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/sarasinor"},
+		{ "op" : "add",
+		"path" : "/speciesShips/sarasinor ",
+		"value" : [
+				"/ships/sarasinor/sarasinorT0.structure",
+				"/ships/sarasinor/sarasinorT1.structure",
+				"/ships/sarasinor/sarasinorT2.structure",
+				"/ships/sarasinor/sarasinorT3.structure",
+				"/ships/sarasinor/sarasinorT4.structure",
+				"/ships/sarasinor/sarasinorT5.structure",
+				"/ships/sarasinor/sarasinorT6.structure",
+				"/ships/sarasinor/sarasinorT7.structure", 
+				"/ships/sarasinor/sarasinorT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/merrkin"},
+		{ "op" : "add",
+		"path" : "/speciesShips/merrkin",
+		"value" : [
+				"/ships/merrkin/merrkinT0.structure",
+				"/ships/merrkin/merrkinT1.structure",
+				"/ships/merrkin/merrkinT2.structure",
+				"/ships/merrkin/merrkinT3.structure",
+				"/ships/merrkin/merrkinT4.structure",
+				"/ships/merrkin/merrkinT5.structure",
+				"/ships/merrkin/merrkinT6.structure",
+				"/ships/merrkin/merrkinT7.structure", 
+				"/ships/merrkin/merrkinT8.structure" 
+			]
+		}
+	],
+	[
+		{ "op" : "test" ,"path" : "/speciesShips/Nuu"},
+		{ "op" : "add",
+		"path" : "/speciesShips/Nuu",
+		"value" : [
+				"/ships/Nuu/NuuT0.structure",
+				"/ships/Nuu/NuuT1.structure",
+				"/ships/Nuu/NuuT2.structure",
+				"/ships/Nuu/NuuT3.structure",
+				"/ships/Nuu/NuuT4.structure",
+				"/ships/Nuu/NuuT5.structure",
+				"/ships/Nuu/NuuT6.structure",
+				"/ships/Nuu/NuuT7.structure", 
+				"/ships/Nuu/NuuT8.structure" 
+			]
+		}
+	],
+	[
 		{ "op" : "test" ,"path" : "/speciesShips/SomaDragon"},
 		{ "op" : "add",
 		"path" : "/speciesShips/SomaDragon",
@@ -106,15 +225,15 @@
 		{ "op" : "add",
 			"path" : "/speciesShips/neki",
 			"value" : [
-				"/ships/vanta/vantaT0.structure",
-				"/ships/vanta/vantaT1.structure",
-				"/ships/vanta/vantaT2.structure",
-				"/ships/vanta/vantaT3.structure",
-				"/ships/vanta/vantaT4.structure",
-				"/ships/vanta/vantaT5.structure",
-				"/ships/vanta/vantaT6.structure",
-				"/ships/vanta/vantaT7.structure",
-				"/ships/vanta/vantaT8.structure"
+				"/ships/neki/apexT0.structure",
+				"/ships/neki/apexT1.structure",
+				"/ships/neki/apexT2.structure",
+				"/ships/neki/apexT3.structure",
+				"/ships/neki/apexT4.structure",
+				"/ships/neki/apexT5.structure",
+				"/ships/neki/apexT6.structure",
+				"/ships/neki/apexT7.structure",
+				"/ships/neki/apexT8.structure"
 			]
 		}
 	],
